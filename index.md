@@ -5,6 +5,7 @@ description: "This is the official website for the workshop “Smarter Extractio
 
 <!-- Sticky mini navigation -->
 <div class="mini-nav" align="center">
+  <a href="#overview">Overview</a> •
   <a href="#call-for-papers">CFP</a> •
   <a href="#important-dates-aoe">Dates</a> •
   <a href="#submission">Submission</a> •
@@ -14,9 +15,11 @@ description: "This is the official website for the workshop “Smarter Extractio
 </div>
 
 <!-- Hero -->
-<div align="center">
-  <img src="assets/logo.svg" alt="SESAME Workshop logo" width="160" height="160" />
-  <h1>SESAME Workshop @ JCDL 2025</h1>
+<div align="center" class="container">
+  <p class="kicker">SESAME @ JCDL 2025</p>
+  <img src="assets/logo.svg" alt="SESAME Workshop logo" width="140" height="140" />
+  <h1>Smarter Extraction of Scholarly Metadata</h1>
+  <p class="lead">Using Knowledge Graphs and Language Models</p>
   <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>Virtual</em> • <strong>Mode:</strong> Virtual</p>
   <p>
     <a class="btn" href="#call-for-papers">Read the CFP</a>
@@ -26,68 +29,119 @@ description: "This is the official website for the workshop “Smarter Extractio
 
 ---
 
-## Overview
-A 4–6 sentence intro: what/why, who should attend, expected outcomes.
+<section id="overview" class="container band band--alt">
+  <h2>Overview</h2>
+  <div class="grid-2">
+    <div>
+      <p>
+        A 4–6 sentence intro: what/why, who should attend (researchers, librarians, practitioners),
+        and expected outcomes (benchmarking agenda, datasets, shared tasks).
+      </p>
+      <p>
+        Emphasize the bridge between LLMs and linked data / KGs for high-quality scholarly metadata:
+        author disambiguation, venue normalization, citation context understanding, and evaluation.
+      </p>
+    </div>
+    <div>
+      <h3>Topics of Interest</h3>
+      <ul>
+        <li>Metadata extraction & normalization, entity linking</li>
+        <li>Knowledge graphs for scholarly communication</li>
+        <li>LLM-assisted curation, distillation, and quality control</li>
+        <li>Reproducibility, benchmarks, & shared tasks</li>
+        <li>Datasets, tooling, and open infrastructure</li>
+      </ul>
+    </div>
+  </div>
+</section>
 
-### Topics of Interest
-- Topic A / B / C
-- Reproducibility & evaluation
-- Datasets, tooling, infrastructure
+<section id="call-for-papers" class="container">
+  <h2>Call for Papers</h2>
+  <p>
+    We invite original research, position papers, demos, datasets, and reproducibility studies on the topics above.
+    Please tailor anonymization and ethics statements as appropriate.
+  </p>
+  <ul>
+    <li><strong>Long papers:</strong> 6–8 pages (excl. refs)</li>
+    <li><strong>Short papers:</strong> 2–4 pages (excl. refs)</li>
+    <li><strong>Demos / Data / Position:</strong> 2–4 pages</li>
+  </ul>
+  <p><em>Publication venue (e.g., CEUR-WS / ACM Companion / arXiv overlay) to be confirmed.</em></p>
+</section>
 
-## Important Dates (AoE)
-<ul class="dates">
-  <li><strong>Paper submission:</strong> YYYY-MM-DD</li>
-  <li><strong>Notification:</strong> YYYY-MM-DD</li>
-  <li><strong>Camera-ready:</strong> YYYY-MM-DD</li>
-  <li><strong>Workshop:</strong> YYYY-MM-DD</li>
-</ul>
+<section id="important-dates-aoe" class="container band band--alt">
+  <h2>Important Dates (AoE)</h2>
+  <ul class="dates">
+    <li><strong>Paper submission:</strong> YYYY-MM-DD</li>
+    <li><strong>Notification:</strong> YYYY-MM-DD</li>
+    <li><strong>Camera-ready:</strong> YYYY-MM-DD</li>
+    <li><strong>Workshop:</strong> YYYY-MM-DD</li>
+  </ul>
+</section>
 
-## Call for Papers
-Submission types, length, anonymization policy, ethics/data use, and where papers will be published (e.g., CEUR-WS).
+<section id="submission" class="container">
+  <h2>Submission</h2>
+  <ul>
+    <li><strong>Site:</strong> <a href="https://easychair.org/" target="_blank" rel="noopener">EasyChair</a> / <a href="#" target="_blank" rel="noopener">OpenReview</a></li>
+    <li><strong>Format:</strong> ACM/IEEE template (link)</li>
+    <li><strong>Length:</strong> as listed in CFP</li>
+    <li><strong>Anonymization:</strong> single/double-blind (state policy and self-citation rules)</li>
+    <li><strong>Supplementary:</strong> data, code, and preprints encouraged</li>
+  </ul>
+</section>
 
-## Submission
-- **Site:** EasyChair/OpenReview (link)
-- **Format:** ACM/IEEE templates (link)
-- **Length:** 2–4 / 6–8 pages (excl. refs)
-- **Supplementary:** data/code encouraged
+<section id="program" class="container band band--alt">
+  <h2>Program</h2>
+  <table>
+    <thead>
+      <tr><th>Time</th><th>Session</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>09:00–09:15</td><td>Opening &amp; Welcome</td></tr>
+      <tr><td>09:15–10:15</td><td>Keynote</td></tr>
+      <tr><td>10:15–10:45</td><td>Coffee Break</td></tr>
+      <tr><td>10:45–12:15</td><td>Paper Session 1</td></tr>
+      <tr><td>12:15–13:30</td><td>Lunch</td></tr>
+      <tr><td>13:30–15:00</td><td>Paper Session 2</td></tr>
+      <tr><td>15:00–15:30</td><td>Break</td></tr>
+      <tr><td>15:30–16:30</td><td>Panel / Discussion</td></tr>
+      <tr><td>16:30–17:00</td><td>Closing</td></tr>
+    </tbody>
+  </table>
 
-## Program
-| Time        | Session            |
-|-------------|--------------------|
-| 09:00–09:15 | Opening & Welcome  |
-| 09:15–10:15 | Keynote            |
-| 10:15–10:45 | Coffee Break       |
-| 10:45–12:15 | Paper Session 1    |
-| 12:15–13:30 | Lunch              |
-| 13:30–15:00 | Paper Session 2    |
-| 15:00–15:30 | Break              |
-| 15:30–16:30 | Panel/Discussion   |
-| 16:30–17:00 | Closing            |
+  <h3>Keynote(s)</h3>
+  <div class="card">
+    <h4>Dr. Jane Doe (University X)</h4>
+    <p><em>Title TBA</em></p>
+  </div>
+</section>
 
-## Keynote(s)
-<div class="card">
-  <h3>Dr. Jane Doe (University X)</h3>
-  <p><em>Title TBA</em></p>
-</div>
+<section id="organizers" class="container">
+  <h2>Organizers</h2>
+  <ul>
+    <li>Name, Affiliation — email</li>
+    <li>Name, Affiliation — email</li>
+  </ul>
 
-## Organizers
-- Name, Affiliation — email
-- Name, Affiliation — email
+  <h3>Program Committee</h3>
+  <p>TBA</p>
+</section>
 
-## Program Committee
-TBA
+<section class="container band band--alt">
+  <h2>Registration</h2>
+  <p>Use the JCDL 2025 registration system (link TBA).</p>
 
-## Registration
-Use the JCDL 2025 registration system (link TBA).
+  <h2>Venue &amp; Travel</h2>
+  <p>Co-located with JCDL 2025 (venue TBA).</p>
 
-## Venue & Travel
-Co-located with JCDL 2025 (venue TBA).
+  <h2>Code of Conduct</h2>
+  <p>We follow the conference Code of Conduct. Contact the organizers with concerns.</p>
+</section>
 
-## Code of Conduct
-We follow the conference Code of Conduct. Contact the organizers with concerns.
-
-## Contact
-Questions? Email <contact@domain> or open an issue in this repo.
+<section id="contact" class="container">
+  <h2>Contact</h2>
+  <p>Questions? Email <a href="mailto:contact@domain">contact@domain</a> or open an issue in this repository.</p>
+</section>
 
 <hr>
 <p align="center" style="font-size:0.95rem;">
