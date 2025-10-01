@@ -1,0 +1,5 @@
+title: 1st Workshop on Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models at JCDL 2025
+description: Official portal for theSESAME workshop 2025.
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins: [jekyll-seo-tag]
