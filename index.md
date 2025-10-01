@@ -12,15 +12,15 @@ description: "This is the official website for the workshop “Smarter Extractio
   <a href="#contact">Contact</a>
 </p>
 
-<div align="center">
-  <img src="assets/logo.svg" alt="SESAME Workshop logo" width="160" height="160" />
-  <h1>SESAME Workshop @ JCDL 2025</h1>
-  <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>City, Country</em> • <strong>Mode:</strong> Virtual</p>
-  <p>
-    <a class="btn" href="#call-for-papers">Read the CFP</a>
-    <a class="btn btn-primary" href="https://easychair.org/" target="_blank" rel="noopener">Submit a Paper</a>
-  </p>
+<div class="mini-nav" align="center">
+  <a href="#call-for-papers">CFP</a> •
+  <a href="#important-dates-aoe">Dates</a> •
+  <a href="#submission">Submission</a> •
+  <a href="#program">Program</a> •
+  <a href="#organizers">Organizers</a> •
+  <a href="#contact">Contact</a>
 </div>
+
 ---
 
 ## Overview
