@@ -23,6 +23,7 @@ description: "This is the official website for the workshop “Smarter Extractio
   <p class="lead">Using Knowledge Graphs and Language Models</p>
   <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>Virtual</em> • <strong>Mode:</strong> Virtual</p>
 </div>
+
 ---
 
 <section id="overview" class="container band band--alt">
