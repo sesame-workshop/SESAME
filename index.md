@@ -18,8 +18,8 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
 <section id="overview" class="container band band--alt">
   <h2>Overview</h2>
   <p>
-    A 4–6 sentence intro: what/why, who should attend (researchers, librarians, practitioners),
-    and expected outcomes (benchmarking agenda, datasets, shared tasks).
+“Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models” and abbreviated as “SESAME”. The mission statement of SESAME is to bring together researchers and practitioners to explore how AI-driven curation approaches leveraging large language models and knowledge graphs to strengthen digital libraries infrastructures. The proposed workshop is intended for a broader spectrum of participants within the JCDL community, including researchers, data curators, and policy makers. It is particularly relevant to those working in digital library infrastructures, metadata curation, knowledge graph construction, information extraction, and natural language processing. Hence, participants from research backgrounds fields such as scientometrics, open science, and AI ethics will also find value, as the workshop addresses cross-cutting issues of data interoperability and transparency. The workshop aim to bring scientific community at platform encompssing of digital libraries, metadata workflows, large language models and knowledge graph. The workshop will combine foundational discussions with advanced perspectives, making it accessible to researchers across the discpline. The planned sessions keynotes talks, and collaborative activities will further ensure 
+that participants of diverse backgrounds can contribute meaningfully to discussions and prospective conclusions.
   </p>
   <p>
     Emphasize the bridge between LLMs and linked data / KGs for high-quality scholarly metadata:
@@ -38,6 +38,52 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
     <li>Reproducibility & benchmarks</li>
     <li>Shared tasks & evaluation protocols</li>
     <li>Datasets, tooling, and open infrastructure</li>
+
+  • Research Artifacts Metadata Modeling and Granularity
+– Metadata of scholarly publications, datasets, soft-
+ware, and models
+– Metadata quality assessment, enrichment, and cura-
+tion
+– Research artifacts provenance across digital libraries
+– Cross-disciplinary metadata interoperability
+• Large Language Models (LLMs) and NLP for Metadata
+– Research artifacts metadata extraction using LLMs 
+– Prompt engineering, fine-tuning for scholarly infor-
+mation extraction
+– Evaluation, reliability and issues for LLM-generated
+metadata
+– Comparative studies of LLM-based vs traditional
+methods
+– LLMs for metadata curation and normalization
+– AI-driven curation, preservation at scale, and long-
+term accessibility
+• Knowledge Graphs and Linked Data
+
+– Construction of scholarly knowledge graphs from
+heterogeneous metadata
+– Linking and aligning entities across repositories and
+infrastructures
+– Applications of KGs for discovery, recommendation,
+and impact
+• Digital Libraries and Infrastructure
+– Integration of metadata workflows into digital library
+systems
+– Benchmarks, datasets, and shared tasks for metadata
+extraction and modeling
+– System design for metadata-intensive digital library
+applications
+• Societal, Ethical Impact and Future Policy Directions
+– Ethical implications of AI-driven metadata genera-
+tion and curation
+– Metadata for open science, reproducibility, and re-
+search integrity
+– Societal impacts of metadata granularity on scholarly
+evaluation and equity
+– Policy frameworks and governance for interoperable
+metadata infrastructures
+
+
+    
   </ul>
 </section>
 
