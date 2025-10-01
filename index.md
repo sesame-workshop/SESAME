@@ -24,7 +24,6 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
   <p class="lead">Using Knowledge Graphs and Language Models</p>
 </div>
 
-
 <!-- Sticky mini navigation -->
 <div class="mini-nav" align="center">
   <a href="#overview">Overview</a> •
