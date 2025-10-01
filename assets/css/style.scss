@@ -3,20 +3,57 @@
 
 @import "jekyll-theme-cayman";
 
-/* ========== Layout tweaks ========== */
-.page-header { padding: 2.5rem 1rem; } /* tighten hero spacing on Cayman */
+/* ========== Layout & rhythm ========== */
+.page-header { padding: 2.75rem 1rem; } /* hero spacing */
+section { margin: 2.25rem 0; }
 
-/* Sticky mini-nav for quick section jumps */
+.band {
+  padding: 2rem 1rem;
+  border-radius: 12px;
+}
+.band--alt {
+  background: #f6f8fa; /* GitHub light gray */
+  border: 1px solid #eaecef;
+}
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+/* Two-column grid that collapses on mobile */
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+}
+@media (max-width: 860px) {
+  .grid-2 { grid-template-columns: 1fr; }
+}
+
+/* ========== Sticky mini-nav ========== */
 .mini-nav {
   position: sticky;
   top: 0;
   z-index: 10;
   backdrop-filter: saturate(180%) blur(8px);
-  background: rgba(255,255,255,0.85);
+  background: rgba(255,255,255,0.9);
   padding: 0.5rem;
   border-bottom: 1px solid #eaecef;
 }
 .mini-nav a { margin: 0 0.35rem; }
+
+/* ========== Hero helpers ========== */
+.kicker {
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  font-weight: 700;
+  font-size: .85rem;
+  color: #57606a;
+}
+.lead {
+  font-size: 1.05rem;
+  color: #57606a;
+}
 
 /* ========== Buttons ========== */
 .btn {
@@ -34,13 +71,13 @@
 /* ========== Dates “timeline” ========== */
 .dates { list-style: none; padding-left: 0; }
 .dates li {
-  padding: 0.4rem 0;
+  padding: 0.45rem 0;
   border-left: 3px solid #0969da;
-  margin: 0.25rem 0 0.25rem 0.6rem;
+  margin: 0.3rem 0 0.3rem 0.6rem;
   padding-left: 0.6rem;
 }
 
-/* ========== Simple card (for keynotes, etc.) ========== */
+/* ========== Cards (keynotes, accepted papers) ========== */
 .card {
   border: 1px solid #eaecef;
   border-radius: 12px;
@@ -48,3 +85,21 @@
   margin: 0.75rem 0;
   box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
+
+/* ========== Tables ========== */
+table {
+  width: 100%;
+  display: table;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #eaecef;
+  padding: 0.5rem 0.6rem;
+}
+thead th {
+  background: #f6f8fa;
+  font-weight: 700;
+}
+
+/* Fallback: if Markdown table is accidentally on one line, force wrap */
+table td { word-break: break-word; }
