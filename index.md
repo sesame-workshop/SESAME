@@ -1,5 +1,5 @@
 ---
-title: "Smarter Extraction of Scholarly Metadata using Knowledge Graphs and Language Models (SESAME)"
+title: "Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models (SESAME)"
 description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JCDL 2025 (Virtual Event)"
 ---
 
@@ -106,7 +106,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 <section id="submission" class="container">
   <h2>Submission</h2>
   <ul>
-    <li><strong>Site:</strong> <a href="https://easychair.org/" target="_blank" rel="noopener">EasyChair</a> / <a href="#" target="_blank" rel="noopener">OpenReview</a></li>
+    <li><strong>Site:</strong> <a href="https://easychair.org/" target="_blank" rel="noopener">EasyChair</a> </li>
     <li><strong>Format:</strong> ACM/IEEE template (link)</li>
     <li><strong>Length:</strong> as listed in CFP</li>
     <li><strong>Anonymization:</strong> single/double-blind (state policy and self-citation rules)</li>
