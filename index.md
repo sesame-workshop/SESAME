@@ -24,6 +24,18 @@ Knowledge Graphs and Language Models, will held at JCDL 2025 (Virtual Event)
 </div>
 
 ---
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  margin: 0.25rem;
+  border-radius: 0.5rem;
+  border: 1px solid #d0d7de;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn:hover { text-decoration: none; opacity: 0.92; }
+.btn.btn-primary { background: #0969da; color: #fff; border-color: #0969da; }
+
 
 ## Overview
 A 4–6 sentence intro: what/why, who should attend, expected outcomes.
