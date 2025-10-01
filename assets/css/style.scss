@@ -1,7 +1,9 @@
-scss
+---
+---
 
 @import "jekyll-theme-cayman";
 
+/* Buttons */
 .btn {
   display: inline-block;
   padding: 0.6rem 1rem;
@@ -13,3 +15,6 @@ scss
 }
 .btn:hover { text-decoration: none; opacity: 0.92; }
 .btn.btn-primary { background: #0969da; color: #fff; border-color: #0969da; }
+
+/* Optional: tighten hero spacing */
+.page-header { padding: 2.5rem 1rem; }
