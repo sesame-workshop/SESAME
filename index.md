@@ -15,7 +15,7 @@ description: "This is the official website for the workshop “Smarter Extractio
   <a href="#contact">Contact</a>
 </div>
 
-<!-- Hero -->
+<!-- Hero (NO submit button here) -->
 <div align="center" class="container">
   <p class="kicker">SESAME @ JCDL 2025</p>
   <img src="assets/logo.svg" alt="SESAME Workshop logo" width="140" height="140" />
@@ -26,7 +26,6 @@ description: "This is the official website for the workshop “Smarter Extractio
     <a class="btn" href="#call-for-papers">Read the CFP</a>
   </p>
 </div>
-
 
 ---
 
@@ -69,6 +68,7 @@ description: "This is the official website for the workshop “Smarter Extractio
   </ul>
   <p><em>Publication venue (e.g., CEUR-WS / ACM Companion / arXiv overlay) to be confirmed.</em></p>
 
+  <!-- The ONLY submit button (kept here) -->
   <p align="center">
     <a class="btn btn-primary" href="https://easychair.org/" target="_blank" rel="noopener">Submit a Paper</a>
   </p>
