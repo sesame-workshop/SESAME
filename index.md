@@ -15,14 +15,13 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
   <a href="#contact">Contact</a>
 </div>
 
-<!-- Hero -->
+<!-- Hero (clean version) -->
 <div align="center" class="container">
-  <p class="kicker">SESAME @ JCDL 2025</p>
-  <img src="assets/logo.svg" alt="SESAME Workshop logo" width="140" height="140" />
-  <h1>Smarter Extraction of Scholarly Metadata</h1>
-  <h2>Date: YYYY-MM-DD • Location: Virtual • Mode: Virtual</h2>
-  <p class="lead">Using Knowledge Graphs and Language Models</p>
+  <h1>Smarter Extraction of Scholarly Metadata using Knowledge Graphs and Language Models (SESAME)</h1>
+  <h2>1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)</h2>
+  <h3>Date: YYYY-MM-DD • Location: Virtual • Mode: Virtual</h3>
 </div>
+
 
 <section id="overview" class="container band band--alt">
   <h2>Overview</h2>
