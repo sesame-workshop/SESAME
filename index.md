@@ -25,6 +25,7 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
 
 <section id="topics" class="container">
   <h2>Topics of Interest</h2>
+
   <ul class="list-2col">
     <li>Metadata extraction & normalization</li>
     <li>Entity linking & disambiguation</li>
@@ -34,54 +35,56 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
     <li>Reproducibility & benchmarks</li>
     <li>Shared tasks & evaluation protocols</li>
     <li>Datasets, tooling, and open infrastructure</li>
+  </ul>
 
-  • Research Artifacts Metadata Modeling and Granularity
-– Metadata of scholarly publications, datasets, soft-
-ware, and models
-– Metadata quality assessment, enrichment, and cura-
-tion
-– Research artifacts provenance across digital libraries
-– Cross-disciplinary metadata interoperability
-• Large Language Models (LLMs) and NLP for Metadata
-– Research artifacts metadata extraction using LLMs 
-– Prompt engineering, fine-tuning for scholarly infor-
-mation extraction
-– Evaluation, reliability and issues for LLM-generated
-metadata
-– Comparative studies of LLM-based vs traditional
-methods
-– LLMs for metadata curation and normalization
-– AI-driven curation, preservation at scale, and long-
-term accessibility
-• Knowledge Graphs and Linked Data
+  <ul>
+    <li><strong>Research Artifacts Metadata Modeling and Granularity</strong>
+      <ul>
+        <li>Metadata of scholarly publications, datasets, software, and models</li>
+        <li>Metadata quality assessment, enrichment, and curation</li>
+        <li>Research artifacts provenance across digital libraries</li>
+        <li>Cross-disciplinary metadata interoperability</li>
+      </ul>
+    </li>
 
-– Construction of scholarly knowledge graphs from
-heterogeneous metadata
-– Linking and aligning entities across repositories and
-infrastructures
-– Applications of KGs for discovery, recommendation,
-and impact
-• Digital Libraries and Infrastructure
-– Integration of metadata workflows into digital library
-systems
-– Benchmarks, datasets, and shared tasks for metadata
-extraction and modeling
-– System design for metadata-intensive digital library
-applications
-• Societal, Ethical Impact and Future Policy Directions
-– Ethical implications of AI-driven metadata genera-
-tion and curation
-– Metadata for open science, reproducibility, and re-
-search integrity
-– Societal impacts of metadata granularity on scholarly
-evaluation and equity
-– Policy frameworks and governance for interoperable
-metadata infrastructures
+    <li><strong>Large Language Models (LLMs) and NLP for Metadata</strong>
+      <ul>
+        <li>Research artifacts metadata extraction using LLMs</li>
+        <li>Prompt engineering, fine-tuning for scholarly information extraction</li>
+        <li>Evaluation, reliability and issues for LLM-generated metadata</li>
+        <li>Comparative studies of LLM-based vs traditional methods</li>
+        <li>LLMs for metadata curation and normalization</li>
+        <li>AI-driven curation, preservation at scale, and long-term accessibility</li>
+      </ul>
+    </li>
 
+    <li><strong>Knowledge Graphs and Linked Data</strong>
+      <ul>
+        <li>Construction of scholarly knowledge graphs from heterogeneous metadata</li>
+        <li>Linking and aligning entities across repositories and infrastructures</li>
+        <li>Applications of KGs for discovery, recommendation, and impact</li>
+      </ul>
+    </li>
 
-    
+    <li><strong>Digital Libraries and Infrastructure</strong>
+      <ul>
+        <li>Integration of metadata workflows into digital library systems</li>
+        <li>Benchmarks, datasets, and shared tasks for metadata extraction and modeling</li>
+        <li>System design for metadata-intensive digital library applications</li>
+      </ul>
+    </li>
+
+    <li><strong>Societal, Ethical Impact and Future Policy Directions</strong>
+      <ul>
+        <li>Ethical implications of AI-driven metadata generation and curation</li>
+        <li>Metadata for open science, reproducibility, and research integrity</li>
+        <li>Societal impacts of metadata granularity on scholarly evaluation and equity</li>
+        <li>Policy frameworks and governance for interoperable metadata infrastructures</li>
+      </ul>
+    </li>
   </ul>
 </section>
+
 
 <section id="call-for-papers" class="container">
   <h2>Call for Papers</h2>
