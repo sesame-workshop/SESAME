@@ -25,18 +25,6 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
 
 <section id="topics" class="container">
   <h2>Topics of Interest</h2>
-
-  <ul class="list-2col">
-    <li>Metadata extraction & normalization</li>
-    <li>Entity linking & disambiguation</li>
-    <li>Knowledge graphs for scholarly communication</li>
-    <li>LLM-assisted curation & quality control</li>
-    <li>Citation context understanding</li>
-    <li>Reproducibility & benchmarks</li>
-    <li>Shared tasks & evaluation protocols</li>
-    <li>Datasets, tooling, and open infrastructure</li>
-  </ul>
-
   <ul>
     <li><strong>Research Artifacts Metadata Modeling and Granularity</strong>
       <ul>
