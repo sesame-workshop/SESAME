@@ -1,7 +1,7 @@
 ---
-title: Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models (SESAME-2025)
-description: This is the offical website for the workshop “Smarter Extraction of ScholArly MEtadata using 
-Knowledge Graphs and Language Models, will held at JCDL 2025 (Virtual Event)
+title: "Smarter Extraction of Scholarly Metadata using Knowledge Graphs and Language Models (SESAME-2025)"
+description: "This is the official website for the workshop “Smarter Extraction of Scholarly Metadata using Knowledge Graphs and Language Models”, to be held at JCDL 2025 (Virtual Event)."
+---
 
 <p align="center">
   <a href="#call-for-papers">CFP</a> •
@@ -15,12 +15,13 @@ Knowledge Graphs and Language Models, will held at JCDL 2025 (Virtual Event)
 <div align="center">
   <img src="assets/logo.svg" alt="SESAME Workshop logo" width="160" height="160" />
   <h1>SESAME Workshop @ JCDL 2025</h1>
-  <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>City, Country</em> • <strong>Mode:</strong> In-person/Hybrid</p>
+  <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>City, Country</em> • <strong>Mode:</strong> Virtual</p>
   <p>
     <a class="btn" href="#call-for-papers">Read the CFP</a>
     <a class="btn btn-primary" href="https://easychair.org/" target="_blank" rel="noopener">Submit a Paper</a>
   </p>
 </div>
+
 
 ---
 
