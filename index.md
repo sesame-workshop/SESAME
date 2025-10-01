@@ -6,6 +6,7 @@ description: "This is the official website for the workshop “Smarter Extractio
 <!-- Sticky mini navigation -->
 <div class="mini-nav" align="center">
   <a href="#overview">Overview</a> •
+  <a href="#topics">Topics</a> •
   <a href="#call-for-papers">CFP</a> •
   <a href="#important-dates-aoe">Dates</a> •
   <a href="#submission">Submission</a> •
@@ -30,28 +31,28 @@ description: "This is the official website for the workshop “Smarter Extractio
 
 <section id="overview" class="container band band--alt">
   <h2>Overview</h2>
-  <div class="grid-2">
-    <div>
-      <p>
-        A 4–6 sentence intro: what/why, who should attend (researchers, librarians, practitioners),
-        and expected outcomes (benchmarking agenda, datasets, shared tasks).
-      </p>
-      <p>
-        Emphasize the bridge between LLMs and linked data / KGs for high-quality scholarly metadata:
-        author disambiguation, venue normalization, citation context understanding, and evaluation.
-      </p>
-    </div>
-    <div>
-      <h3>Topics of Interest</h3>
-      <ul>
-        <li>Metadata extraction & normalization, entity linking</li>
-        <li>Knowledge graphs for scholarly communication</li>
-        <li>LLM-assisted curation, distillation, and quality control</li>
-        <li>Reproducibility, benchmarks, & shared tasks</li>
-        <li>Datasets, tooling, and open infrastructure</li>
-      </ul>
-    </div>
-  </div>
+  <p>
+    A 4–6 sentence intro: what/why, who should attend (researchers, librarians, practitioners),
+    and expected outcomes (benchmarking agenda, datasets, shared tasks).
+  </p>
+  <p>
+    Emphasize the bridge between LLMs and linked data / KGs for high-quality scholarly metadata:
+    author disambiguation, venue normalization, citation context understanding, and evaluation.
+  </p>
+</section>
+
+<section id="topics" class="container">
+  <h2>Topics of Interest</h2>
+  <ul class="list-2col">
+    <li>Metadata extraction & normalization</li>
+    <li>Entity linking & disambiguation</li>
+    <li>Knowledge graphs for scholarly communication</li>
+    <li>LLM-assisted curation & quality control</li>
+    <li>Citation context understanding</li>
+    <li>Reproducibility & benchmarks</li>
+    <li>Shared tasks & evaluation protocols</li>
+    <li>Datasets, tooling, and open infrastructure</li>
+  </ul>
 </section>
 
 <section id="call-for-papers" class="container">
