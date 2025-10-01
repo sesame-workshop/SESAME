@@ -22,7 +22,6 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
   <h3>Date: YYYY-MM-DD • Location: Virtual • Mode: Virtual</h3>
 </div>
 
-
 <section id="overview" class="container band band--alt">
   <h2>Overview</h2>
   <p>
