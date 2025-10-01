@@ -21,8 +21,6 @@ description: "This is the official website for the workshop “Smarter Extractio
     <a class="btn btn-primary" href="https://easychair.org/" target="_blank" rel="noopener">Submit a Paper</a>
   </p>
 </div>
-
-
 ---
 
 ## Overview
