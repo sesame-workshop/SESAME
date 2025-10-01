@@ -2,7 +2,6 @@
 title: Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models (SESAME-2025)
 description: This is the offical website for the workshop “Smarter Extraction of ScholArly MEtadata using 
 Knowledge Graphs and Language Models, will held at JCDL 2025 (Virtual Event)
----
 
 <p align="center">
   <a href="#call-for-papers">CFP</a> •
