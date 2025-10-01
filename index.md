@@ -23,7 +23,6 @@ description: "This is the official website for the workshop “Smarter Extractio
   <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>Virtual</em> • <strong>Mode:</strong> Virtual</p>
   <p>
     <a class="btn" href="#call-for-papers">Read the CFP</a>
-    <a class="btn btn-primary" href="https://easychair.org/" target="_blank" rel="noopener">Submit a Paper</a>
   </p>
 </div>
 
@@ -67,6 +66,10 @@ description: "This is the official website for the workshop “Smarter Extractio
     <li><strong>Demos / Data / Position:</strong> 2–4 pages</li>
   </ul>
   <p><em>Publication venue (e.g., CEUR-WS / ACM Companion / arXiv overlay) to be confirmed.</em></p>
+
+  <p align="center">
+    <a class="btn btn-primary" href="https://easychair.org/" target="_blank" rel="noopener">Submit a Paper</a>
+  </p>
 </section>
 
 <section id="important-dates-aoe" class="container band band--alt">
