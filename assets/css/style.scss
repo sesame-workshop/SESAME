@@ -125,5 +125,9 @@ thead th {
   font-weight: 700;
 }
 
+/* HOTFIX: hide any primary button in the hero area */
+.hero .btn.btn-primary { display: none !important; }
+
+
 /* Fallback: if Markdown table is accidentally on one line, force wrap */
 table td { word-break: break-word; }
