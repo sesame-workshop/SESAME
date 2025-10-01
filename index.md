@@ -24,7 +24,6 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
   <a href="#organizers">Organizers</a> •
   <a href="#contact">Contact</a>
 </div>
-
 ---
 
 <section id="overview" class="container band band--alt">
