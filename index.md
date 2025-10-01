@@ -16,7 +16,7 @@ description: "This is the official website for the workshop “Smarter Extractio
 </div>
 
 <!-- Hero (NO submit button here) -->
-<div align="center" class="container">
+<div align="center" class="container hero">
   <p class="kicker">SESAME @ JCDL 2025</p>
   <img src="assets/logo.svg" alt="SESAME Workshop logo" width="140" height="140" />
   <h1>Smarter Extraction of Scholarly Metadata</h1>
@@ -24,8 +24,10 @@ description: "This is the official website for the workshop “Smarter Extractio
   <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>Virtual</em> • <strong>Mode:</strong> Virtual</p>
   <p>
     <a class="btn" href="#call-for-papers">Read the CFP</a>
+    <!-- (No submit button here) -->
   </p>
 </div>
+
 
 ---
 
