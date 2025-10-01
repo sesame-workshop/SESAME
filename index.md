@@ -77,8 +77,8 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 <section id="call-for-papers" class="container">
   <h2>Call for Papers</h2>
   <p>
-    We invite original research, position papers, demos, datasets, and reproducibility studies on the topics above.
-    Please tailor anonymization and ethics statements as appropriate.
+    The workshop invites original research on the topics above. The workshop call focuses on will call for papers in three categories, i.e. full papers, short paper and demo paper. Each submission will be reviewed by domain experts according to the JCDL guidelines. 
+    
   </p>
   <ul>
     <li><strong>Long papers:</strong> 6–8 pages (excl. refs)</li>
