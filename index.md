@@ -81,9 +81,9 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
     
   </p>
   <ul>
-    <li><strong>Long Papers:</strong> 6–8 pages (excl. refs)</li>
-    <li><strong>Short Papers:</strong> 2–4 pages (excl. refs)</li>
-    <li><strong>Demos Papers:</strong> 2–4 pages</li>
+    <li><strong>Long Papers:</strong> 6–8 pages (Excluding References)</li>
+    <li><strong>Short Papers:</strong> 2–4 pages (Excluding References)</li>
+    <li><strong>Demo Papers:</strong> 2–4 pages (Excluding References)</li>
   </ul>
   <p><em>Accepted papers will be published at CEUR-WS proceedings.</em></p>
 
@@ -135,8 +135,9 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 
   <h3>Keynote(s)</h3>
   <div class="card">
-    <h4>Dr. Jane Doe (University X)</h4>
-    <p><em>Title TBA</em></p>
+    <h4>Prof. Dr. Silvio Peroni Director at Open Citations, University of Bologna, Italy </h4>
+    <h4>TBA </h4>
+   <p><em></em></p>
   </div>
 </section>
 
