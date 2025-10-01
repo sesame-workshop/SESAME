@@ -7,5 +7,4 @@ plugins:
 url: https://sesame-workshop.github.io/SESAME
 baseurl: /SESAME
 show_downloads: false
-google_analytics: ""                # optional
-
+google_analytics: ""
