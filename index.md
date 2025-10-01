@@ -1,6 +1,6 @@
 ---
 title: "Smarter Extraction of Scholarly Metadata using Knowledge Graphs and Language Models (SESAME)"
-description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
+description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JCDL 2025 (Virtual Event)"
 ---
 
 <!-- Sticky mini navigation (only once) -->
