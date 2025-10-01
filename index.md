@@ -1,10 +1,17 @@
 ---
-title: "Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models (SESAME)"
+title: "Smarter Extraction of Scholarly Metadata using Knowledge Graphs and Language Models (SESAME)"
 description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
-<h1>Smarter Extraction of Scholarly Metadata</h1>
-<h2>Date: YYYY-MM-DD • Location: Virtual • Mode: Virtual</h2>
-<p class="lead">Using Knowledge Graphs and Language Models</p>
 ---
+
+<!-- Hero -->
+<div align="center" class="container">
+  <p class="kicker">SESAME @ JCDL 2025</p>
+  <img src="assets/logo.svg" alt="SESAME Workshop logo" width="140" height="140" />
+  <h1>Smarter Extraction of Scholarly Metadata</h1>
+  <h2>Date: YYYY-MM-DD • Location: Virtual • Mode: Virtual</h2>
+  <p class="lead">Using Knowledge Graphs and Language Models</p>
+</div>
+
 
 <!-- Sticky mini navigation -->
 <div class="mini-nav" align="center">
@@ -16,11 +23,6 @@ description: "1st SESAME-2025 workshop, to be held at JCDL 2025 (Virtual Event)"
   <a href="#program">Program</a> •
   <a href="#organizers">Organizers</a> •
   <a href="#contact">Contact</a>
-</div>
-
-<!-- Hero -->
-<div align="center" class="container">
-  <p><strong>Date:</strong> <em>YYYY-MM-DD</em> • <strong>Location:</strong> <em>Virtual</em> • <strong>Mode:</strong> Virtual</p>
 </div>
 
 ---
