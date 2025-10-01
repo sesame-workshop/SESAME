@@ -77,13 +77,13 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 <section id="call-for-papers" class="container">
   <h2>Call for Papers</h2>
   <p>
-    The workshop invites original research on the topics above. The workshop call focuses on will call for papers in three categories, i.e. full papers, short paper and demo paper. Each submission will be reviewed by domain experts according to the JCDL guidelines. 
+    The workshop invites original research on the topics above. The workshop call focuses on will call for papers in three categories mentioned below. Each submission will be reviewed by domain experts according to the JCDL guidelines. 
     
   </p>
   <ul>
-    <li><strong>Long papers:</strong> 6–8 pages (excl. refs)</li>
-    <li><strong>Short papers:</strong> 2–4 pages (excl. refs)</li>
-    <li><strong>Demos / Data / Position:</strong> 2–4 pages</li>
+    <li><strong>Long Papers:</strong> 6–8 pages (excl. refs)</li>
+    <li><strong>Short Papers:</strong> 2–4 pages (excl. refs)</li>
+    <li><strong>Demos Papers:</strong> 2–4 pages</li>
   </ul>
   <p><em>Accepted papers will be published at CEUR-WS proceedings.</em></p>
 
