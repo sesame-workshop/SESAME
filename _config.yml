@@ -1,5 +1,11 @@
 title: 1st Workshop on Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models at JCDL 2025
-description: Official portal for theSESAME workshop 2025.
-theme: jekyll-theme-minimal
-markdown: kramdown
-plugins: [jekyll-seo-tag]
+description: Official web portal for the SESAME workshop co-located with JCDL 2025 (Totally Virtual Event).
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+url: https://sesame-workshop.github.io/SESAME
+baseurl: /SESAME
+show_downloads: false
+google_analytics: ""                # optional
+
