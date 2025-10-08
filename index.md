@@ -162,7 +162,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
   <p>Co-located with JCDL 2025.</p>
 
   <h2>Code of Conduct</h2>
-  <p>We follow the conference Code of Conduct. Contact the organizers with concerns.</p>
+  <p>We follow the conference Code of Conduct.</p>
 </section>
 
 <section id="contact" class="container">
