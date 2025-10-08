@@ -167,7 +167,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 
 <section id="contact" class="container">
   <h2>Contact</h2>
-  <p>Questions? Email <a href="mailto:asif.suryani@gesis.org">contact@domain</a> or open an issue in this repository.</p>
+  <p>Questions? Email <a href="mailto:asif.suryani@gesis.org">asif.suryani@gesis.org</a> or open an issue in this repository.</p>
 </section>
 
 <hr>
