@@ -159,7 +159,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
   <p>Use the JCDL 2025 registration system (link TBA).</p>
 
   <h2>Venue &amp; Travel</h2>
-  <p>Co-located with JCDL 2025 (venue TBA).</p>
+  <p>Co-located with JCDL 2025.</p>
 
   <h2>Code of Conduct</h2>
   <p>We follow the conference Code of Conduct. Contact the organizers with concerns.</p>
@@ -167,7 +167,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 
 <section id="contact" class="container">
   <h2>Contact</h2>
-  <p>Questions? Email <a href="mailto:contact@domain">contact@domain</a> or open an issue in this repository.</p>
+  <p>Questions? Email <a href="mailto:asif.suryani@gesis.org">contact@domain</a> or open an issue in this repository.</p>
 </section>
 
 <hr>
