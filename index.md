@@ -173,7 +173,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 <hr>
 <p align="center" style="font-size:0.95rem;">
   © 2025 SESAME Organizers • 
-  <a href="mailto:contact@domain">contact</a> • 
+  <a href="mailto:asif.suryani@gesis.org">contact</a> • 
   <a href="https://github.com/sesame-workshop/SESAME">GitHub Repo</a><br>
   Site setup and layout assistance by <em>ChatGPT (GPT-5 Thinking)</em>.
 </p>
