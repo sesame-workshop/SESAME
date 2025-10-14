@@ -95,9 +95,9 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 <section id="important-dates-aoe" class="container band band--alt">
   <h2>Important Dates (AoE)</h2>
   <ul class="dates">
-    <li><strong>Paper submission:</strong> YYYY-MM-DD</li>
-    <li><strong>Notification:</strong> YYYY-MM-DD</li>
-    <li><strong>Camera-ready:</strong> YYYY-MM-DD</li>
+    <li><strong>Paper submission:</strong> 2025-11-07</li>
+    <li><strong>Notification:</strong> 2025-11-21</li>
+    <li><strong>Camera-ready:</strong> 2025-11-28</li>
     <li><strong>Workshop:</strong> YYYY-MM-DD</li>
   </ul>
 </section>
