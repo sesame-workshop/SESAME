@@ -106,7 +106,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
   <h2>Submission</h2>
   <ul>
     <li><strong>Site:</strong> <a href="https://easychair.org/" target="_blank" rel="noopener">EasyChair</a> </li>
-    <li><strong>Format:</strong> All submissions must be written in English, following the CEUR workshop proceedings style</li>
+    <li><strong>Format:</strong> All submissions must be written in English, following the CEUR workshop proceedings style <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank" rel="noopener">EasyChair</a></li>
     <li><strong>Length:</strong> as listed in CFP</li>
     <li><strong>Anonymization:</strong> single/double-blind (state policy and self-citation rules)</li>
     <li><strong>Supplementary:</strong> data, code, and preprints encouraged</li>
