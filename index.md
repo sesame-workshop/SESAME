@@ -84,7 +84,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
     <li><strong>Short Papers:</strong> 2–4 pages (Excluding References)</li>
     <li><strong>Demo Papers:</strong> 2–4 pages (Excluding References)</li>
   </ul>
-  <p><em>Accepted papers will be published at CEUR-WS proceedings.</em></p>
+  <p><em>Accepted papers will be published as workshop proceedings.</em></p>
 
   <!-- The ONLY submit button (kept here) -->
   <p align="center">
