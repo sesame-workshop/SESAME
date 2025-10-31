@@ -6,5 +6,7 @@ plugins:
   - jekyll-sitemap
 url: https://sesame-workshop.github.io/SESAME
 baseurl: /SESAME
+github:
+  is_project_page: false
 show_downloads: false
 google_analytics: ""
