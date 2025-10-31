@@ -135,3 +135,8 @@ thead th {
 
 /* Fallback: if Markdown table is accidentally on one line, force wrap */
 table td { word-break: break-word; }
+
+/* Hide the default 'View on GitHub' button in the header */
+.page-header .btn {
+  display: none !important;
+}
