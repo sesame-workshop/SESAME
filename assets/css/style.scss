@@ -3,48 +3,28 @@
 
 @import "jekyll-theme-cayman";
 
-/* ========== Layout & rhythm ========== */
-.page-header { padding: 2.75rem 1rem; } /* hero spacing */
+/* ===== Base readability ===== */
+html { scroll-behavior: smooth; }
+body {
+  font-size: 17px;           /* slightly larger text */
+  line-height: 1.6;          /* easier reading */
+}
+.container { max-width: 980px; margin: 0 auto; }
 section { margin: 2.25rem 0; }
 
-.band {
-  padding: 2rem 1rem;
-  border-radius: 12px;
-}
-.band--alt {
-  background: #f6f8fa; /* GitHub light gray */
-  border: 1px solid #eaecef;
-}
-.container {
-  max-width: 980px;
-  margin: 0 auto;
-}
+/* Headings rhythm */
+h1, h2, h3 { line-height: 1.25; margin-top: 0.25rem; margin-bottom: 0.5rem; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.35rem; color: #24292f; }
+h3 { font-size: 1.1rem; color: #30363d; }
 
-/* Two-column grid (used elsewhere if needed) */
-.grid-2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.25rem;
-}
-@media (max-width: 860px) {
-  .grid-2 { grid-template-columns: 1fr; }
-}
+/* Bands (contrast sections) */
+.band { padding: 2rem 1rem; border-radius: 12px; }
+.band--alt { background: #f6f8fa; border: 1px solid #eaecef; }
 
-/* Two-column list for Topics of Interest */
-.list-2col {
-  columns: 2;
-  column-gap: 2rem;
-  padding-left: 1.1rem;
-}
-@media (max-width: 860px) {
-  .list-2col { columns: 1; }
-}
-
-/* ========== Sticky mini-nav ========== */
+/* Sticky mini-nav (one line, subtle) */
 .mini-nav {
-  position: sticky;
-  top: 0;
-  z-index: 10;
+  position: sticky; top: 0; z-index: 10;
   backdrop-filter: saturate(180%) blur(8px);
   background: rgba(255,255,255,0.9);
   padding: 0.5rem;
@@ -52,85 +32,50 @@ section { margin: 2.25rem 0; }
 }
 .mini-nav a { margin: 0 0.35rem; }
 
-/* ========== Hero helpers ========== */
+/* Small kicker & lead (if you use them elsewhere) */
 .kicker {
-  text-transform: uppercase;
-  letter-spacing: .06em;
-  font-weight: 700;
-  font-size: .85rem;
-  color: #57606a;
+  text-transform: uppercase; letter-spacing: .06em;
+  font-weight: 700; font-size: .85rem; color: #57606a;
 }
-.lead {
-  font-size: 1.05rem;
-  color: #57606a;
-}
+.lead { font-size: 1.05rem; color: #57606a; }
 
-/* ========== Buttons (force consistent colors) ========== */
+/* Buttons */
 .btn {
-  display: inline-block;
-  padding: 0.6rem 1rem;
-  margin: 0.25rem;
-  border-radius: 0.5rem;
-  border: 1px solid #d0d7de;
-  text-decoration: none;
-  font-weight: 600;
-  background: transparent;
+  display: inline-block; padding: 0.6rem 1rem; margin: 0.25rem;
+  border-radius: 0.5rem; border: 1px solid #d0d7de; text-decoration: none;
+  font-weight: 600; background: transparent;
 }
-.btn:hover { text-decoration: none; opacity: 0.92; }
+.btn:hover { text-decoration: none; opacity: .92; }
+.btn.btn-primary { background: #0969da; color: #fff; border-color: #0969da; }
 
-.btn.btn-primary {
-  background: #0969da;
-  color: #fff;
-  border-color: #0969da;
-}
-
-/* Ensure hero buttons don’t flip to white due to theme overrides */
-.page-header .btn { color: #ffffff; border-color: rgba(255,255,255,0.65); }
-.page-header .btn.btn-primary {
-  background: #0969da !important;
-  color: #ffffff !important;
-  border-color: #0969da !important;
-}
-
-/* ========== Dates “timeline” ========== */
+/* Dates “timeline” */
 .dates { list-style: none; padding-left: 0; }
 .dates li {
-  padding: 0.45rem 0;
-  border-left: 3px solid #0969da;
-  margin: 0.3rem 0 0.3rem 0.6rem;
-  padding-left: 0.6rem;
+  padding: 0.45rem 0; border-left: 3px solid #0969da;
+  margin: 0.3rem 0 0.3rem 0.6rem; padding-left: 0.6rem;
 }
 
-/* ========== Cards (keynotes, etc.) ========== */
+/* Two-column bullet list (desktop) */
+.list-2col { columns: 2; column-gap: 2rem; padding-left: 1.1rem; }
+@media (max-width: 860px) { .list-2col { columns: 1; } }
+
+/* Chips (“At a glance”) */
+.chips { display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center; margin: .75rem 0 0; }
+.chip {
+  border: 1px solid #d0d7de; border-radius: 999px;
+  padding: .35rem .7rem; font-size: .95rem; background: #fff;
+}
+
+/* Cards (keynotes etc.) */
 .card {
-  border: 1px solid #eaecef;
-  border-radius: 12px;
-  padding: 1rem;
-  margin: 0.75rem 0;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+  border: 1px solid #eaecef; border-radius: 12px; padding: 1rem;
+  margin: 0.75rem 0; box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
 
-/* ========== Tables ========== */
-table {
-  width: 100%;
-  display: table;
-  border-collapse: collapse;
-}
-th, td {
-  border: 1px solid #eaecef;
-  padding: 0.5rem 0.6rem;
-}
-thead th {
-  background: #f6f8fa;
-  font-weight: 700;
-}
+/* Tables */
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #eaecef; padding: 0.5rem 0.6rem; }
+thead th { background: #f6f8fa; font-weight: 700; }
 
-/* Remove any theme-injected button in the page header (top of the site) */
-.page-header .btn { 
-  display: none !important; 
-}
-
-
-
-/* Fallback: if Markdown table is accidentally on one line, force wrap */
-table td { word-break: break-word; }
+/* Ensure theme header has no stray buttons */
+.page-header .btn { display: none !important; }
