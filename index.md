@@ -87,8 +87,31 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
   <p><em>Accepted papers will be published as workshop proceedings.</em></p>
 
   <!-- The ONLY submit button (kept here) -->
+    <!-- The ONLY submit button (kept here) -->
+  <style>
+    /* local styles for this one button only */
+    #submit-btn {
+      display: inline-block;
+      padding: 0.6rem 1rem;
+      border-radius: 8px;
+      background-color: #0969da;      /* blue */
+      border: 1px solid #0969da;
+      color: #ffffff;                  /* white text */
+      font-weight: 600;
+      text-decoration: none;
+    }
+    #submit-btn:hover,
+    #submit-btn:focus {
+      background-color: #0550ae;      /* darker on hover */
+      border-color: #0550ae;
+      color: #ffffff;
+      text-decoration: none;
+    }
+  </style>
   <p align="center">
-    <a class="btn btn-primary" href="https://easychair.org/conferences/?conf=sesame2025" target="_blank" rel="noopener">Submit a Paper</a>
+    <a id="submit-btn" class="btn btn-primary"
+       href="https://easychair.org/conferences/?conf=sesame2025"
+       target="_blank" rel="noopener">Submit a Paper</a>
   </p>
 </section>
 
