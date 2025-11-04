@@ -178,3 +178,15 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 </p>
 
 <p align="center"><a href="#top">Back to top ↑</a></p>
+
+.btn.btn-primary {
+  background-color: #0969da !important; /* GitHub blue */
+  border-color: #0969da !important;
+  color: #ffffff !important; /* white text */
+}
+
+.btn.btn-primary:hover {
+  background-color: #0550ae !important;
+  border-color: #0550ae !important;
+  color: #ffffff !important;
+}
