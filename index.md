@@ -179,14 +179,19 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 
 <p align="center"><a href="#top">Back to top ↑</a></p>
 
-.btn.btn-primary {
+/* Fix: make 'Submit a Paper' button visible everywhere */
+.btn.btn-primary,
+.btn.btn-primary:link,
+.btn.btn-primary:visited {
   background-color: #0969da !important; /* GitHub blue */
   border-color: #0969da !important;
-  color: #ffffff !important; /* white text */
+  color: #ffffff !important;            /* white text */
 }
 
-.btn.btn-primary:hover {
+.btn.btn-primary:hover,
+.btn.btn-primary:focus {
   background-color: #0550ae !important;
   border-color: #0550ae !important;
   color: #ffffff !important;
+  text-decoration: none;
 }
