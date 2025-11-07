@@ -121,7 +121,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
     <li><strong>Paper submission:</strong> <span style="color:red;"><s>2025-11-07</s></span> → <strong>2025-11-14 (Extended)</strong></li>
     <li><strong>Notification:</strong> <span style="color:red;"><s>2025-11-21</s></span> → <strong>2025-11-28 (Extended)</strong></li>
     <li><strong>Camera-ready:</strong> <span style="color:red;"><s>2025-11-28</s></span> → <strong>2025-12-05 (Extended)</strong></li>
-    <li><strong>Workshop:<strong>2025-12-19 (Tentative)</strong></li>
+    <li><strong>Workshop:</strong> 2025-12-19 (Tentative)</li>
   </ul>
 </section>
 
