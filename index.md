@@ -136,23 +136,166 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 </section>
 
 <section id="program" class="container band band--alt">
-  <h2>Program</h2>
-  <table>
-    <thead>
-      <tr><th>Time</th><th>Session</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>09:00–09:15</td><td>Opening &amp; Welcome</td></tr>
-      <tr><td>09:15–10:15</td><td>Keynote</td></tr>
-      <tr><td>10:15–10:45</td><td>Coffee Break</td></tr>
-      <tr><td>10:45–12:15</td><td>Paper Session 1</td></tr>
-      <tr><td>12:15–13:30</td><td>Lunch</td></tr>
-      <tr><td>13:30–15:00</td><td>Paper Session 2</td></tr>
-      <tr><td>15:00–15:30</td><td>Break</td></tr>
-      <tr><td>15:30–16:30</td><td>Panel / Discussion</td></tr>
-      <tr><td>16:30–17:00</td><td>Closing</td></tr>
-    </tbody>
-  </table>
+  <h2>Program Schedule (Multi-Timezone)</h2>
+
+  <div style="overflow-x:auto;">
+    <table>
+      <thead>
+        <tr>
+          <th>Session</th>
+          <th>New York (EST)</th>
+          <th>UK (GMT)</th>
+          <th>CET (Germany, Austria, Poland, Italy)</th>
+          <th>EET (Finland, Lithuania)</th>
+          <th>Japan (JST)</th>
+          <th>Australia (Sydney AEDT)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Opening &amp; Welcome</strong></td>
+          <td>09:00–09:15</td>
+          <td>14:00–14:15</td>
+          <td>15:00–15:15</td>
+          <td>16:00–16:15</td>
+          <td>23:00–23:15</td>
+          <td>01:00–01:15 (+1)</td>
+        </tr>
+
+        <tr>
+          <td><strong>Keynote 1</strong></td>
+          <td>09:15–10:15</td>
+          <td>14:15–15:15</td>
+          <td>15:15–16:15</td>
+          <td>16:15–17:15</td>
+          <td>23:15–00:15 (+1)</td>
+          <td>01:15–02:15 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Coffee Break</td>
+          <td>10:15–10:30</td>
+          <td>15:15–15:30</td>
+          <td>16:15–16:30</td>
+          <td>17:15–17:30</td>
+          <td>00:15–00:30 (+1)</td>
+          <td>02:15–02:30 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Submission ID-4</td>
+          <td>10:30–10:55</td>
+          <td>15:30–15:55</td>
+          <td>16:30–16:55</td>
+          <td>17:30–17:55</td>
+          <td>00:30–00:55 (+1)</td>
+          <td>02:30–02:55 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Submission ID-7</td>
+          <td>10:55–11:20</td>
+          <td>15:55–16:20</td>
+          <td>16:55–17:20</td>
+          <td>17:55–18:20</td>
+          <td>00:55–01:20 (+1)</td>
+          <td>02:55–03:20 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Submission ID-9</td>
+          <td>11:20–11:45</td>
+          <td>16:20–16:45</td>
+          <td>17:20–17:45</td>
+          <td>18:20–18:45</td>
+          <td>01:20–01:45 (+1)</td>
+          <td>03:20–03:45 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Short Break</td>
+          <td>11:45–12:00</td>
+          <td>16:45–17:00</td>
+          <td>17:45–18:00</td>
+          <td>18:45–19:00</td>
+          <td>01:45–02:00 (+1)</td>
+          <td>03:45–04:00 (+1)</td>
+        </tr>
+
+        <tr>
+          <td><strong>Keynote 2</strong></td>
+          <td>12:00–13:00</td>
+          <td>17:00–18:00</td>
+          <td>18:00–19:00</td>
+          <td>19:00–20:00</td>
+          <td>02:00–03:00 (+1)</td>
+          <td>04:00–05:00 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Submission ID-10</td>
+          <td>13:00–13:25</td>
+          <td>18:00–18:25</td>
+          <td>19:00–19:25</td>
+          <td>20:00–20:25</td>
+          <td>03:00–03:25 (+1)</td>
+          <td>05:00–05:25 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Submission ID-11</td>
+          <td>13:25–13:50</td>
+          <td>18:25–18:50</td>
+          <td>19:25–19:50</td>
+          <td>20:25–20:50</td>
+          <td>03:25–03:50 (+1)</td>
+          <td>05:25–05:50 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Short Break</td>
+          <td>13:50–14:00</td>
+          <td>18:50–19:00</td>
+          <td>19:50–20:00</td>
+          <td>20:50–21:00</td>
+          <td>03:50–04:00 (+1)</td>
+          <td>05:50–06:00 (+1)</td>
+        </tr>
+
+        <tr>
+          <td>Challenges for Metadata Extraction:<br>Repository-level Overview</td>
+          <td>14:00–14:30</td>
+          <td>19:00–19:30</td>
+          <td>20:00–20:30</td>
+          <td>21:00–21:30</td>
+          <td>04:00–04:30 (+1)</td>
+          <td>06:00–06:30 (+1)</td>
+        </tr>
+
+        <tr>
+          <td><strong>Panel / Discussion</strong></td>
+          <td>14:30–15:00</td>
+          <td>19:30–20:00</td>
+          <td>20:30–21:00</td>
+          <td>21:30–22:00</td>
+          <td>04:30–05:00 (+1)</td>
+          <td>06:30–07:00 (+1)</td>
+        </tr>
+
+        <tr>
+          <td><strong>Closing Remarks</strong></td>
+          <td>15:00–15:10</td>
+          <td>20:00–20:05</td>
+          <td>21:00–21:05</td>
+          <td>22:00–22:05</td>
+          <td>05:00–05:05 (+1)</td>
+          <td>07:00–07:05 (+1)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
 
   <h3>Keynote(s)</h3>
   <div class="card">
