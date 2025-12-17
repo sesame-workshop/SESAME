@@ -304,12 +304,6 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
    <p><em></em></p>
   </div>
 </section>
-Associate Professor Amir Aryani
-Head of Augmented Intelligence Group
-Swinburne University of Technology
-PO Box 218, Mail H25, John Street, Hawthorn VIC 3122
-T: +61 3 9214 3378 | E: aaryani@swin.edu.au 
-
 <section id="organizers" class="container">
   <h2>Organizers</h2>
   <ul>
