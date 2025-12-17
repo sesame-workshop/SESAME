@@ -303,7 +303,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
     <h4>Dr. Amir Aryani,  Associate Professor, Head of Augmented Intelligence Group Swinburne University of Technology, Australia </h4>
    <p><em></em></p>
   </div>
-</section>
+  
 <section id="organizers" class="container">
   <h2>Organizers</h2>
   <ul>
