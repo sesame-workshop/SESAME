@@ -300,10 +300,15 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
   <h3>Keynote(s)</h3>
   <div class="card">
     <h4>Prof. Dr. Silvio Peroni Director at Open Citations, University of Bologna, Italy </h4>
-    <h4>TBA </h4>
+    <h4>Dr. Amir Aryani,  Associate Professor, Head of Augmented Intelligence Group Swinburne University of Technology, Australia </h4>
    <p><em></em></p>
   </div>
 </section>
+Associate Professor Amir Aryani
+Head of Augmented Intelligence Group
+Swinburne University of Technology
+PO Box 218, Mail H25, John Street, Hawthorn VIC 3122
+T: +61 3 9214 3378 | E: aaryani@swin.edu.au 
 
 <section id="organizers" class="container">
   <h2>Organizers</h2>
