@@ -330,7 +330,6 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
   <p> Dr. Marcel R. Ackermann, dblp computer science bibliography, University of Trier, Germany</p>
   <p> Prof. Dr.-Ing. Ralf Schenkel, University of Trier, Germany</p>
   <p> Dr. Kanishka Silva, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany</p>
-  <p> Dr. Kanishka Silva, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany</p>
   <p> Dr. Affan Yasin, School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University, China</p>
  
 
