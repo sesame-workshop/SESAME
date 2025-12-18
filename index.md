@@ -317,14 +317,13 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 </div>
   
 <section id="organizers" class="container">
-  <h2>Organizers</h2>
-  <ul>
+  <h3>Organizers</h3>
+  
     <p> Dr. Muhammad Asif Suryani, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany </p>
     <p> Dr. Brigitte Mathiak, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany </p>
     <p> Dr. Florian Reitz, Schloss Dagstuhl Leibniz-Zentrum für Informatik Wadern, Germany </p>
     <p> Dr. Florian Jäckel, Schloss Dagstuhl Leibniz-Zentrum für Informatik, Wadern, Germany </p>
     <p> Prof. Dr. Ansgar Scherp, Data Science and Big Data Analytics, Ulm University (UULM) Ulm, Germany </p>
-  </ul>
 
   <h3>Program Committee</h3>
   <p> Dr. Marcel R. Ackermann, dblp computer science bibliography, University of Trier, Germany</p>
