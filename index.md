@@ -315,7 +315,6 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
     <em>Keynote title: “TBA”</em>
   </p>
 </div>
->
   
 <section id="organizers" class="container">
   <h2>Organizers</h2>
