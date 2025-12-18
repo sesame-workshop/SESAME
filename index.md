@@ -332,7 +332,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 
 <section class="container band band--alt">
   <h2>Registration</h2>
-  <p>[Use the JCDL 2025 registration system (https://2025.jcdl.org/registration/)).</p>
+  <p>Use the JCDL 2025 registration system https://2025.jcdl.org/registration</p>
 
   <h2>Venue &amp; Travel</h2>
   <p>Co-located with JCDL 2025.</p>
