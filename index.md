@@ -297,12 +297,25 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
 </section>
 
 
-  <h3>Keynote(s)</h3>
-  <div class="card">
-    <h4>Prof. Dr. Silvio Peroni Director at Open Citations, University of Bologna, Italy </h4>
-    <h4>Dr. Amir Aryani,  Associate Professor, Head of Augmented Intelligence Group Swinburne University of Technology, Australia </h4>
-   <p><em></em></p>
-  </div>
+<h3>Keynote(s)</h3>
+
+<div class="card">
+  <p>
+    <strong>Prof. Dr. Silvio Peroni</strong><br>
+    Director, OpenCitations, University of Bologna, Italy<br>
+    <em>Keynote title: “OpenCitations: recent developments and future directions”</em>
+  </p>
+</div>
+
+<div class="card">
+  <p>
+    <strong>Dr. Amir Aryani</strong><br>
+    Associate Professor, Head of Augmented Intelligence Group,<br>
+    Swinburne University of Technology, Australia<br>
+    <em>Keynote title: “TBA”</em>
+  </p>
+</div>
+>
   
 <section id="organizers" class="container">
   <h2>Organizers</h2>
