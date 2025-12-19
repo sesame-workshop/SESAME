@@ -163,7 +163,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
         </tr>
 
         <tr>
-          <td><strong>Keynote 1</strong></td>
+          <td><strong>Keynote 1:Leveraging Research Link Data and PIDs for Strategic Partnerships and Unlocking Collaboration</strong></td>
           <td>09:15–10:15</td>
           <td>14:15–15:15</td>
           <td>15:15–16:15</td>
@@ -223,7 +223,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
         </tr>
 
         <tr>
-          <td><strong>Keynote 2</strong></td>
+          <td><strong>Keynote 2: OpenCitations: recent developments and future directions</strong></td>
           <td>12:00–13:00</td>
           <td>17:00–18:00</td>
           <td>18:00–19:00</td>
