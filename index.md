@@ -183,7 +183,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
         </tr>
 
         <tr>
-          <td>Submission ID-4</td>
+          <td>How Do LLMs Encode Scientific Quality? An Empirical Study Using Monosemantic Features from Sparse Autoencoders</td>
           <td>10:30–10:55</td>
           <td>15:30–15:55</td>
           <td>16:30–16:55</td>
@@ -193,7 +193,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
         </tr>
 
         <tr>
-          <td>Submission ID-7</td>
+          <td>Extracting metadata from grey literature using small fine-tuned language models</td>
           <td>10:55–11:20</td>
           <td>15:55–16:20</td>
           <td>16:55–17:20</td>
@@ -203,7 +203,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
         </tr>
 
         <tr>
-          <td>Submission ID-9</td>
+          <td>Leveraging LLM Reasoning for Knowledge Graph Construction: Capabilities, Methodologies, and Implications</td>
           <td>11:20–11:45</td>
           <td>16:20–16:45</td>
           <td>17:20–17:45</td>
@@ -233,7 +233,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
         </tr>
 
         <tr>
-          <td>Submission ID-10</td>
+          <td>Towards effective extraction of references from scientific literature with Large Language Model</td>
           <td>13:00–13:25</td>
           <td>18:00–18:25</td>
           <td>19:00–19:25</td>
@@ -243,7 +243,7 @@ description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JC
         </tr>
 
         <tr>
-          <td>Submission ID-11</td>
+          <td>Perspective-Aware Dataset Similarity Estimation Using Metadata Embeddings</td>
           <td>13:25–13:50</td>
           <td>18:25–18:50</td>
           <td>19:25–19:50</td>
