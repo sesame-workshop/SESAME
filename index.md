@@ -140,7 +140,7 @@
   <h2>Submission</h2>
 
   <ul>
-    <li><strong>Submission site:</strong> href="[https://github.com/sesame-workshop/SESAME](Site Link)"</li>
+    <li><strong>Submission site:</strong> href="[EasyChair](https://easychair.org/conferences/?conf=sesame26)"</li>
     <li><strong>Language:</strong> All submissions must be written in English</li>
     <li><strong>Format:</strong> The official proceedings format will be announced</li>
     <li><strong>Review policy:</strong> The anonymization and review policy will be announced</li>
