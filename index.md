@@ -19,8 +19,8 @@
   <h2>Overview</h2>
 
   <p>
-    The workshop <strong>Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models (SESAME)</strong>
-    brings together researchers and practitioners interested in improving scholarly metadata through large language models,
+    The workshop <strong>Smarter Extraction of ScholArly MEtadata using Knowledge Graphs, Language Models and Agents (SESAME)</strong>
+    brings together researchers and practitioners interested in improving scholarly metadata through large language models, Agents,
     knowledge graphs, natural language processing, and linked-data technologies.
   </p>
 
