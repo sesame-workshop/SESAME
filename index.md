@@ -47,7 +47,7 @@
 
 <section id="topics" class="container">
   <h2>Topics of Interest</h2>
-```
+  
   <p>Topics include, but are not limited to:</p>
 
   <ul>
@@ -103,7 +103,6 @@
     <li>Policy Frameworks and Governance for Interoperable Metadata Infrastructures</li>
   </ul>
 </li>
-```
 
   </ul>
 </section>
