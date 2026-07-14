@@ -156,6 +156,41 @@
     Submissions should contain original work and should not be simultaneously under review elsewhere, unless
     the host conference explicitly permits non-archival or previously published contributions.
   </p>
+  <style>
+    /* Local styles for the submission button */
+    #submit-btn {
+      display: inline-block;
+      padding: 0.6rem 1rem;
+      border-radius: 8px;
+      background-color: #0969da;
+      border: 1px solid #0969da;
+      color: #ffffff;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    #submit-btn:hover,
+    #submit-btn:focus {
+      background-color: #0550ae;
+      border-color: #0550ae;
+      color: #ffffff;
+      text-decoration: none;
+    }
+
+    #submit-btn.disabled {
+      background-color: #6e7781;
+      border-color: #6e7781;
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+  </style>
+
+  <p align="center">
+    <span id="submit-btn" class="btn btn-primary disabled">
+      Submission System: To Be Announced
+    </span>
+  </p>
+
 </section>
 
 <section id="program" class="container band band--alt">
