@@ -62,7 +62,6 @@
       </ul>
     </li>
 
-```
 <li>
   <strong>Large Language Modelsa and Agents for Natural Language Processing (NLP) for Scholarly Metadata</strong>
   <ul>
