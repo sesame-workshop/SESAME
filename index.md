@@ -192,20 +192,15 @@
   </p>
 
   <p>
-    The program is expected to include:
+    The workshop program will comprise of:
   </p>
 
   <ul>
-    <li>invited keynote presentations;</li>
-    <li>research-paper presentations;</li>
-    <li>short, position, demo, dataset, and benchmark presentations;</li>
-    <li>interactive discussion sessions; and</li>
-    <li>a panel or community discussion on future research directions.</li>
+    <li>Invited Keynotes Talks;</li>
+    <li>Research Paper Presentations;</li>
+    <li>Interactive Discussion Sessions</li>
   </ul>
 
-  <p>
-    Accepted papers, speakers, session times, and multi-time-zone information will be added here when confirmed.
-  </p>
 </section>
 
 <section id="organizers" class="container">
@@ -236,7 +231,7 @@
   </p>
 
   <p>
-    <strong> Florian Hauss</strong><br>
+    <strong>Florian Hauss</strong><br>
     Data Science and Big Data Analytics,<br>
     Ulm University, Ulm, Germany
   </p>
