@@ -111,7 +111,7 @@
   <h2>Call for Papers</h2>
 
   <p>
-    SESAME 2026 invites original contributions addressing the topics listed above as Full Papers, Short Papers and Demonstration papers.
+    SESAME 2026 invites original research contributions addressing the above listed topics in three categories. 
   </p>
   <ul>
     <li><strong>Long Papers:</strong> 6–8 pages, excluding references</li>
