@@ -295,6 +295,12 @@ Smarter Extraction of ScholArly MEtadata using Knowledge Graphs, Language Models
   </p>
 
   <p>
+    <strong> Florian Hauss</strong><br>
+    Data Science and Big Data Analytics,<br>
+    Ulm University, Ulm, Germany
+  </p>
+
+  <p>
     <strong>Prof. Dr. Ansgar Scherp</strong><br>
     Data Science and Big Data Analytics,<br>
     Ulm University, Ulm, Germany
