@@ -295,7 +295,7 @@
 <hr>
 
 <p align="center" style="font-size:0.95rem;">
-  © 2026 SESAME Organizers
+  © 2026 SESAME Organizers <br>
   Site setup and layout assistance by <em>ChatGPT</em>.
 </p>
 
