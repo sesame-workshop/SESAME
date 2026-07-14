@@ -64,16 +64,16 @@
 
 ```
 <li>
-  <strong>Large Language Models and NLP for Scholarly Metadata</strong>
+  <strong>Large Language Modelsa and Agents for Natural Language Processing (NLP) for Scholarly Metadata</strong>
   <ul>
-    <li>Scholarly metadata extraction using large and small language models</li>
-    <li>Prompt engineering, fine-tuning, and retrieval-augmented generation</li>
-    <li>Agentic workflows for scholarly information extraction</li>
-    <li>Entity recognition, relation extraction, and document understanding</li>
-    <li>Author disambiguation and affiliation normalization</li>
-    <li>Citation parsing and citation-context analysis</li>
-    <li>Extraction from PDFs, tables, figures, supplementary material, and repositories</li>
-    <li>Comparisons between LLM-based and traditional extraction methods</li>
+    <li>Research artifacts metadata extraction using LLMs and Agents</li> 
+    <li>Prompt engineering, fine-tuning for scholarly information extraction </li>
+    <li>Skill development in agents for scholarly information extraction</li>
+    <li>Evaluation, reliability, and issues for LLM-generated metadata</li>
+    <li>Agentic approaches for Evaluating Scholarly Metadata</li>
+    <li>Comparative Studies of LLM-based vs Agentic vs Traditional Methods</li>
+    <li>LLMs and Agents for Scholarly Metadata Curation and Normalization</li>
+    <li>AI-driven Curation, Preservation at scale, and long-term accessibility</li>
   </ul>
 </li>
 
