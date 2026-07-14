@@ -142,7 +142,7 @@
   <ul>
     <li><strong>Submission site:</strong> <a href="https://easychair.org/conferences/?conf=sesame26" target="_blank" rel="noopener">EasyChair</a></li>
     <li><strong>Language:</strong> All submissions must be written in English</li>
-    <li><strong>Format:</strong> All the submission follow the </li>
+    <li><strong>Format:</strong> All the submission follow <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank" rel="noopener">CEUR workshop proceedings style</a> </li>
     <li><strong>Review policy:</strong> The anonymization and review policy will be announced</li>
     <li><strong>Supplementary material:</strong> Data, code, models, prompts, and preprints are encouraged where appropriate</li>
   </ul>
