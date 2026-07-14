@@ -141,14 +141,16 @@
 
   <ul>
     <li><strong>Submission site:</strong> <a href="https://easychair.org/conferences/?conf=sesame26" target="_blank" rel="noopener">EasyChair</a></li>
-    <li><strong>Language:</strong> All submissions must be written in English</li>
-    <li><strong>Format:</strong> All the submission follow <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank" rel="noopener">CEUR workshop proceedings style</a> </li>
-    <li><strong>Review Policy:</strong> Double-Blind</li>
-    <li><strong>Supplementary Material:</strong> Data, source-code and models are encouraged where appropriate</li>
+    <li><strong>Language:</strong> All submissions must be written in English.</li>
+    <li><strong>Format:</strong> All submissions must follow the <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank" rel="noopener">CEUR Workshop Proceedings style</a>.</li>
+    <li><strong>Review Policy:</strong> Double-blind peer review.</li>
+    <li><strong>Supplementary Material:</strong> Data, source code, and models are encouraged where appropriate.</li>
   </ul>
+
   <p>
     Submissions should contain original work and should not be simultaneously under review elsewhere.
   </p>
+
   <style>
     /* Local styles for the submission button */
     #submit-btn {
@@ -169,24 +171,19 @@
       color: #ffffff;
       text-decoration: none;
     }
-
-    #submit-btn.disabled {
-      background-color: #6e7781;
-      border-color: #6e7781;
-      cursor: not-allowed;
-      pointer-events: none;
-    }
   </style>
 
   <p align="center">
-    <span id="submit-btn" class="btn btn-primary disabled">
-      href="https://easychair.org/conferences/?conf=sesame2025"
-      Submit Paper:
-    </span>
+    <a id="submit-btn"
+       class="btn btn-primary"
+       href="https://easychair.org/conferences/?conf=sesame26"
+       target="_blank"
+       rel="noopener">
+      Submit Paper
+    </a>
   </p>
 
 </section>
-
 <section id="program" class="container band band--alt">
   <h2>Program</h2>
 
