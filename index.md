@@ -1,6 +1,5 @@
 ---
-Smarter Extraction of ScholArly MEtadata using Knowledge Graphs, Language Models and Agents (SESAME)
-2nd SESAME Workshop on Smarter Extraction of ScholArly MEtadata using Knowledge Graphs, Language Models and Agents
+
 -------------------------------------------------------------------------------------------------------------------------
 
 <a id="top"></a>
