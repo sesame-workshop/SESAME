@@ -139,13 +139,8 @@
 <section id="submission" class="container">
   <h2>Submission</h2>
 
-  <p>
-    The official submission system and formatting instructions will be published after confirmation by the
-    host conference.
-  </p>
-
   <ul>
-    <li><strong>Submission site:</strong> To be announced</li>
+    <li><strong>Submission site:</strong> href="[https://github.com/sesame-workshop/SESAME](Site Link)"</li>
     <li><strong>Language:</strong> All submissions must be written in English</li>
     <li><strong>Format:</strong> The official proceedings format will be announced</li>
     <li><strong>Review policy:</strong> The anonymization and review policy will be announced</li>
@@ -314,7 +309,7 @@
   © 2026 SESAME Organizers •
   <a href="previous-editions/2025/">Previous Edition</a> •
   <a href="mailto:asif.suryani@gesis.org">Contact</a> •
-  <a href="https://github.com/sesame-workshop/SESAME">GitHub Repository</a>
+  <a href="https://github.com/sesame-workshop/SESAME">GitHub Repository</a> 
 </p>
 
 <p align="center">
