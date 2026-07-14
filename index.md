@@ -54,10 +54,10 @@
     <li>
       <strong>Research Artifact Metadata Modeling and Granularity</strong>
       <ul>
-        <li>Metadata for scholarly publications, datasets, software, models, and other research artifacts</li>
-        <li>Metadata quality assessment, enrichment, repair, and curation</li>
-        <li>Provenance and versioning of scholarly metadata</li>
-        <li>Cross-disciplinary and cross-repository metadata interoperability</li>
+        <li>Metadata of Scholarly Publications, Datasets, Software, and Models</li>
+        <li>Metadata Quality Assessment, Enrichment, and Curation</li>
+        <li>Research Artifacts Provenance across Digital Libraries</li>
+        <li>Cross-disciplinary Scholarly Metadata Interoperability</li>
         <li>Persistent identifiers, including DOI, ORCID, ROR, and related identifier systems</li>
       </ul>
     </li>
@@ -66,10 +66,10 @@
 <li>
   <strong>Large Language Modelsa and Agents for Natural Language Processing (NLP) for Scholarly Metadata</strong>
   <ul>
-    <li>Research artifacts metadata extraction using LLMs and Agents</li> 
-    <li>Prompt engineering, fine-tuning for scholarly information extraction </li>
-    <li>Skill development in agents for scholarly information extraction</li>
-    <li>Evaluation, reliability, and issues for LLM-generated metadata</li>
+    <li>Research Artifacts Metadata Extraction using LLMs and Agents</li> 
+    <li>Prompt Engineering, fine-tuning for Scholarly Information Extraction </li>
+    <li>Skill Development in Agents for Scholarly Information Extraction</li>
+    <li>Evaluation, Reliability, and Issues for LLM-generated Scholarly Metadata</li>
     <li>Agentic approaches for Evaluating Scholarly Metadata</li>
     <li>Comparative Studies of LLM-based vs Agentic vs Traditional Methods</li>
     <li>LLMs and Agents for Scholarly Metadata Curation and Normalization</li>
@@ -80,49 +80,28 @@
 <li>
   <strong>Knowledge Graphs and Linked Data</strong>
   <ul>
-    <li>Construction and enrichment of scholarly knowledge graphs</li>
-    <li>Linking and aligning entities across repositories and research infrastructures</li>
-    <li>Ontology and vocabulary design for scholarly communication</li>
-    <li>Entity linking and identity resolution</li>
-    <li>Neuro-symbolic and hybrid LLM–knowledge-graph approaches</li>
-    <li>Validation using schemas, constraints, and competency questions</li>
-    <li>Knowledge-graph applications for discovery, recommendation, and research analytics</li>
+    <li>Construction of Scholarly Knowledge Graphs from Heterogeneous Metadata</li>
+    <li>Linking and Aligning Entities across Repositories and Research Infrastructures</li>
+    <li>Applications of KGs for Discovery, Recommendations and Impact</li>
   </ul>
 </li>
 
 <li>
   <strong>Digital Libraries and Research Infrastructures</strong>
   <ul>
-    <li>Integration of metadata workflows into digital-library systems</li>
-    <li>Metadata services for repositories and research-information systems</li>
-    <li>Benchmarks, datasets, shared tasks, and evaluation frameworks</li>
-    <li>System design for metadata-intensive digital-library applications</li>
-    <li>Scalable and sustainable metadata-processing infrastructures</li>
-    <li>Multilingual and multidisciplinary scholarly communication</li>
+    <li>Integration of Metadata workflows into Digital Library Systems</li>
+    <li>Benchmarks, Datasets, and Shared tasks for Metadata Extraction and Modeling</li>
+    <li>System Design for Metadata-intensive Digital Library Applications</li>
   </ul>
 </li>
 
 <li>
-  <strong>Trustworthiness, Evaluation, and Responsible AI</strong>
+  <strong>Societal, Ethical Impact and Future Policy Directions</strong>
   <ul>
-    <li>Evaluation of LLM-generated scholarly metadata</li>
-    <li>Hallucination detection and factual consistency</li>
-    <li>Human-in-the-loop metadata curation</li>
-    <li>Explainability, provenance, transparency, and auditability</li>
-    <li>Bias, fairness, privacy, copyright, and research ethics</li>
-    <li>Metadata for open science, reproducibility, and research integrity</li>
-    <li>Policy frameworks and governance for interoperable metadata infrastructures</li>
-  </ul>
-</li>
-
-<li>
-  <strong>Applications, Systems, and Practical Experiences</strong>
-  <ul>
-    <li>System demonstrations and deployed metadata services</li>
-    <li>Case studies from digital libraries and scholarly infrastructures</li>
-    <li>Datasets, software tools, and reusable research resources</li>
-    <li>Negative results and lessons learned</li>
-    <li>Cost, performance, scalability, and deployment considerations</li>
+    <li>Ethical Implications of AI-driven Metadata Generation and Curation</li>
+    <li>Metadata for Open Science, Reproducibility, and Research integrity</li>
+    <li>Societal Impacts of Metadata Granularity on Scholarly Evaluation and Equity</li>
+    <li>Policy Frameworks and Governance for Interoperable Metadata Infrastructures</li>
   </ul>
 </li>
 ```
@@ -134,22 +113,8 @@
   <h2>Call for Papers</h2>
 
   <p>
-    SESAME 2026 invites original contributions addressing the topics listed above. We welcome research papers,
-    position papers, system and demonstration papers, dataset papers, benchmark papers, and reports describing
-    practical experiences.
+    SESAME 2026 invites original contributions addressing the topics listed above as Full Papers, Short Papers and Demonstration papers.
   </p>
-
-  <p>
-    Submissions should clearly describe:
-  </p>
-
-  <ol>
-    <li>the scholarly-metadata problem being addressed;</li>
-    <li>the role of language models, knowledge graphs, or both;</li>
-    <li>the data, system, or methodology used;</li>
-    <li>the evaluation procedure and identified limitations; and</li>
-    <li>the contribution to digital libraries or scholarly communication.</li>
-  </ol>
 
   <h3>Submission Categories</h3>
 
