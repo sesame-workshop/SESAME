@@ -11,7 +11,7 @@
   <a href="#submission">Submission</a> •
   <a href="#program">Program</a> •
   <a href="#organizers">Organizers</a> •
-  <a href="#previous-editions">Previous Editions</a> •
+  <a href="#previous-editions/2025/">Previous Editions</a> •
   <a href="#contact">Contact</a>
 </div>
 
