@@ -1,365 +1,219 @@
 ---
-title: "Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models (SESAME)"
-description: "1st SESAME-2025 workshop, to be held on 15-19, December 2025 at JCDL 2025 (Virtual Event)"
+title: "SESAME 2026"
+description: "2nd Workshop on Smarter Extraction of ScholArly MEtadata using Knowledge Graphs, Language Models and Agents"
 ---
 
-<!-- Sticky mini navigation (only once) -->
-<div class="mini-nav" align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#topics">Topics</a> •
-  <a href="#call-for-papers">CFP</a> •
-  <a href="#important-dates-aoe">Dates</a> •
-  <a href="#submission">Submission</a> •
-  <a href="#program">Program</a> •
-  <a href="#organizers">Organizers</a> •
-  <a href="#contact">Contact</a>
+<a id="top"></a>
+
+<div align="center">
+
+# SESAME 2026
+
+### 2nd Workshop on  
+### **Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models**
+
+**Date:** To be announced  
+**Venue:** To be announced  
+**Format:** To be announced
+
+[Overview](#overview) ·
+[Topics](#topics) ·
+[Call for Papers](#call-for-papers) ·
+[Important Dates](#important-dates) ·
+[Submission](#submission) ·
+[Program](#program) ·
+[Organizers](#organizers) ·
+[Previous Editions](#previous-editions) ·
+[Contact](#contact)
+
 </div>
 
-<section id="overview" class="container band band--alt">
-  <h2>Overview</h2>
-  <p>
-“Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models” and abbreviated as “SESAME”. The mission statement of SESAME is to bring together researchers and practitioners to explore how AI-driven curation approaches leveraging large language models and knowledge graphs to strengthen digital libraries infrastructures. The proposed workshop is intended for a broader spectrum of participants within the JCDL community, including researchers, data curators, and policy makers. It is particularly relevant to those working in digital library infrastructures, metadata curation, knowledge graph construction, information extraction, and natural language processing. Hence, participants from research backgrounds fields such as scientometrics, open science, and AI ethics will also find value, as the workshop addresses cross-cutting issues of data interoperability and transparency. The workshop aim to bring scientific community at platform encompssing of digital libraries, metadata workflows, large language models and knowledge graph. The workshop will combine foundational discussions with advanced perspectives, making it accessible to researchers across the discpline. The planned sessions keynotes talks, and collaborative activities will further ensure that participants of diverse backgrounds can contribute meaningfully to discussions and prospective conclusions. Emphasize the bridge between LLMs and linked data / KGs for high-quality scholarly metadata: Author Disambiguation, Affiiation normalization, citation context understanding, and evaluation.
-  </p>
- 
+---
+
+## News
+
+- **SESAME 2026 website launched.**
+- The workshop date, venue, submission deadline, and submission link will be announced after confirmation by the host conference.
+- The complete SESAME 2025 website is available under [Previous Editions](#previous-editions).
+
+---
+
+<section id="overview">
+
+## Overview
+
+SESAME brings together researchers and practitioners interested in improving scholarly metadata through large language models, knowledge graphs, natural language processing, and linked-data technologies.
+
+High-quality scholarly metadata is essential for search, discovery, research assessment, reproducibility, and the long-term operation of digital-library infrastructures. However, metadata about publications, authors, affiliations, datasets, software, models, citations, and other research objects is often incomplete, inconsistent, or distributed across heterogeneous sources.
+
+The workshop focuses on methods that combine language models and structured knowledge to support reliable metadata extraction, normalization, enrichment, linking, validation, and evaluation. SESAME provides a forum for researchers, digital-library professionals, data curators, infrastructure providers, and policy experts to exchange methods, datasets, systems, evaluation practices, and lessons learned.
+
+The workshop particularly welcomes work connecting LLM-based extraction with knowledge graphs and persistent identifiers for tasks such as author disambiguation, affiliation normalization, citation-context understanding, provenance tracking, and transparent metadata curation.
+
 </section>
 
-<section id="topics" class="container">
-  <h2>Topics of Interest</h2>
-  <ul>
-    <li><strong>Research Artifacts Metadata Modeling and Granularity</strong>
-      <ul>
-        <li>Metadata of scholarly publications, datasets, software, and models</li>
-        <li>Metadata quality assessment, enrichment, and curation</li>
-        <li>Research artifacts provenance across digital libraries</li>
-        <li>Cross-disciplinary metadata interoperability</li>
-      </ul>
-    </li>
+<section id="topics">
 
-    <li><strong>Large Language Models (LLMs) and NLP for Metadata</strong>
-      <ul>
-        <li>Research artifacts metadata extraction using LLMs</li>
-        <li>Prompt engineering, fine-tuning for scholarly information extraction</li>
-        <li>Evaluation, reliability and issues for LLM-generated metadata</li>
-        <li>Comparative studies of LLM-based vs traditional methods</li>
-        <li>LLMs for metadata curation and normalization</li>
-        <li>AI-driven curation, preservation at scale, and long-term accessibility</li>
-      </ul>
-    </li>
+## Topics of Interest
 
-    <li><strong>Knowledge Graphs and Linked Data</strong>
-      <ul>
-        <li>Construction of scholarly knowledge graphs from heterogeneous metadata</li>
-        <li>Linking and aligning entities across repositories and infrastructures</li>
-        <li>Applications of KGs for discovery, recommendation, and impact</li>
-      </ul>
-    </li>
+Topics include, but are not limited to:
 
-    <li><strong>Digital Libraries and Infrastructure</strong>
-      <ul>
-        <li>Integration of metadata workflows into digital library systems</li>
-        <li>Benchmarks, datasets, and shared tasks for metadata extraction and modeling</li>
-        <li>System design for metadata-intensive digital library applications</li>
-      </ul>
-    </li>
+### Scholarly metadata and research objects
 
-    <li><strong>Societal, Ethical Impact and Future Policy Directions</strong>
-      <ul>
-        <li>Ethical implications of AI-driven metadata generation and curation</li>
-        <li>Metadata for open science, reproducibility, and research integrity</li>
-        <li>Societal impacts of metadata granularity on scholarly evaluation and equity</li>
-        <li>Policy frameworks and governance for interoperable metadata infrastructures</li>
-      </ul>
-    </li>
-  </ul>
+- Metadata modeling for publications, datasets, software, models, and other research artifacts
+- Metadata quality assessment, enrichment, repair, and curation
+- Provenance and versioning of scholarly metadata
+- Cross-domain and cross-repository metadata interoperability
+- Persistent identifiers, including DOI, ORCID, ROR, and related identifier systems
+
+### Language models and information extraction
+
+- LLMs and NLP for scholarly metadata extraction
+- Prompting, fine-tuning, retrieval-augmented generation, and agentic workflows
+- Entity recognition, relation extraction, and document understanding
+- Author disambiguation and affiliation normalization
+- Citation parsing and citation-context analysis
+- Extraction from PDFs, tables, figures, supplementary material, and repositories
+
+### Knowledge graphs and linked data
+
+- Knowledge-graph construction and enrichment
+- Ontologies, vocabularies, and semantic interoperability
+- Entity linking and identity resolution
+- Neuro-symbolic and hybrid LLM–knowledge-graph approaches
+- Validation using constraints, schemas, and competency questions
+- Scholarly knowledge graphs and digital-library infrastructures
+
+### Trustworthiness, evaluation, and responsible AI
+
+- Benchmarks, datasets, metrics, and reproducible evaluation
+- Hallucination detection and factual consistency
+- Human-in-the-loop metadata curation
+- Explainability, provenance, transparency, and auditability
+- Bias, fairness, privacy, copyright, and research ethics
+- Cost, scalability, sustainability, and deployment in production systems
+
+### Applications and systems
+
+- Metadata services for digital libraries and repositories
+- Open-science and research-information systems
+- Scientometrics and research analytics
+- Multilingual and multidisciplinary scholarly communication
+- Case studies, system demonstrations, negative results, and lessons learned
+
 </section>
 
+<section id="call-for-papers">
 
-<section id="call-for-papers" class="container">
-  <h2>Call for Papers</h2>
-  <p>
-    The workshop invites original research on the above mentioned topics in three categories. Each submission will be reviewed by domain experts according to the JCDL guidelines. 
-  </p>
-  <ul>
-    <li><strong>Long Papers:</strong> 6–8 pages (Excluding References)</li>
-    <li><strong>Short Papers:</strong> 2–4 pages (Excluding References)</li>
-    <li><strong>Demo Papers:</strong> 2–4 pages (Excluding References)</li>
-  </ul>
-  <p><em>Accepted papers will be published as workshop proceedings.</em></p>
+## Call for Papers
 
-  <!-- The ONLY submit button (kept here) -->
-    <!-- The ONLY submit button (kept here) -->
-  <style>
-    /* local styles for this one button only */
-    #submit-btn {
-      display: inline-block;
-      padding: 0.6rem 1rem;
-      border-radius: 8px;
-      background-color: #0969da;      /* blue */
-      border: 1px solid #0969da;
-      color: #ffffff;                  /* white text */
-      font-weight: 600;
-      text-decoration: none;
-    }
-    #submit-btn:hover,
-    #submit-btn:focus {
-      background-color: #0550ae;      /* darker on hover */
-      border-color: #0550ae;
-      color: #ffffff;
-      text-decoration: none;
-    }
-  </style>
-  <p align="center">
-    <a id="submit-btn" class="btn btn-primary"
-       href="https://easychair.org/conferences/?conf=sesame2025"
-       target="_blank" rel="noopener">Submit a Paper</a>
-  </p>
+SESAME 2026 invites original research papers, position papers, system and demonstration papers, dataset or benchmark papers, and reports describing practical experience.
+
+We especially encourage submissions that clearly explain:
+
+1. the scholarly-metadata problem being addressed;
+2. the role of language models, knowledge graphs, or both;
+3. the data, system, or methodology used;
+4. the evaluation procedure and limitations; and
+5. the expected contribution to digital libraries or scholarly communication.
+
+### Planned submission categories
+
+| Category | Suggested length |
+|---|---:|
+| Full research paper | Up to 8 pages |
+| Short or position paper | Up to 4 pages |
+| System, demo, dataset, or benchmark paper | Up to 4 pages |
+
+Page limits, formatting rules, and proceedings information are **provisional** until confirmed by the host conference.
+
 </section>
 
-<section id="important-dates-aoe" class="container band band--alt">
-  <h2>Important Dates (AoE)</h2>
-  <ul class="dates">
-    <li><strong>Paper submission:</strong> <span style="color:red;"><s>2025-11-07</s></span> → <strong>2025-11-14 (Extended)</strong></li>
-    <li><strong>Notification:</strong> <span style="color:red;"><s>2025-11-21</s></span> → <strong>2025-11-28 (Extended)</strong></li>
-    <li><strong>Camera-ready:</strong> <span style="color:red;"><s>2025-11-28</s></span> → <strong>2025-12-05 (Extended)</strong></li>
-    <li><strong>Workshop:</strong> <b>2025-12-19</b></li>
-  </ul>
+<section id="important-dates">
+
+## Important Dates
+
+All deadlines will use **Anywhere on Earth (AoE)** time.
+
+| Milestone | Date |
+|---|---|
+| Workshop website launch | July 2026 |
+| Paper submission deadline | To be announced |
+| Author notification | To be announced |
+| Camera-ready deadline | To be announced |
+| Workshop date | To be announced |
+
 </section>
 
-<section id="submission" class="container">
-  <h2>Submission</h2>
-  <ul>
-    <li><strong>Site:</strong> <a href="https://easychair.org/conferences/?conf=sesame2025" target="_blank" rel="noopener">EasyChair</a> </li>
-    <li><strong>Format:</strong> All submissions must be written in English, following the <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw" target="_blank" rel="noopener">CEUR workshop proceedings style</a></li>
-    <li><strong>Anonymization:</strong> single/double-blind (state policy and self-citation rules)</li>
-    <li><strong>Supplementary:</strong> data, code, and preprints encouraged</li>
-  </ul>
+<section id="submission">
+
+## Submission
+
+The submission system and official formatting instructions will be added here after confirmation.
+
+Until then, authors may prepare submissions using the host conference's standard proceedings format. Submissions should be original, written in English, and not simultaneously under review elsewhere, unless the host conference explicitly permits non-archival or previously published material.
+
+**Submission link:** To be announced
+
 </section>
 
-<section id="program" class="container band band--alt">
-  <h2>Program Schedule (Multi-Timezone)</h2>
+<section id="program">
 
-  <div style="overflow-x:auto;">
-    <table>
-      <thead>
-        <tr>
-          <th>Session</th>
-          <th>New York (EST)</th>
-          <th>UK (GMT)</th>
-          <th>CET (Germany, Austria, Poland, Italy)</th>
-          <th>EET (Finland, Lithuania)</th>
-          <th>Japan (JST)</th>
-          <th>Australia (Sydney AEDT)</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>Opening &amp; Welcome</strong></td>
-          <td>09:00–09:15</td>
-          <td>14:00–14:15</td>
-          <td>15:00–15:15</td>
-          <td>16:00–16:15</td>
-          <td>23:00–23:15</td>
-          <td>01:00–01:15 (+1)</td>
-        </tr>
+## Program
 
-        <tr>
-          <td><strong>Keynote 1: Leveraging Research Link Data and PIDs for Strategic Partnerships and Unlocking Collaboration</strong></td>
-          <td>09:15–10:15</td>
-          <td>14:15–15:15</td>
-          <td>15:15–16:15</td>
-          <td>16:15–17:15</td>
-          <td>23:15–00:15 (+1)</td>
-          <td>01:15–02:15 (+1)</td>
-        </tr>
+The detailed workshop program, accepted papers, keynote speakers, panel information, and multi-time-zone schedule will be published after the review process.
 
-        <tr>
-          <td>Coffee Break</td>
-          <td>10:15–10:30</td>
-          <td>15:15–15:30</td>
-          <td>16:15–16:30</td>
-          <td>17:15–17:30</td>
-          <td>00:15–00:30 (+1)</td>
-          <td>02:15–02:30 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>How Do LLMs Encode Scientific Quality? An Empirical Study Using Monosemantic Features from Sparse Autoencoders</td>
-          <td>10:30–10:55</td>
-          <td>15:30–15:55</td>
-          <td>16:30–16:55</td>
-          <td>17:30–17:55</td>
-          <td>00:30–00:55 (+1)</td>
-          <td>02:30–02:55 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>Extracting metadata from grey literature using small fine-tuned language models</td>
-          <td>10:55–11:20</td>
-          <td>15:55–16:20</td>
-          <td>16:55–17:20</td>
-          <td>17:55–18:20</td>
-          <td>00:55–01:20 (+1)</td>
-          <td>02:55–03:20 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>Leveraging LLM Reasoning for Knowledge Graph Construction: Capabilities, Methodologies, and Implications</td>
-          <td>11:20–11:45</td>
-          <td>16:20–16:45</td>
-          <td>17:20–17:45</td>
-          <td>18:20–18:45</td>
-          <td>01:20–01:45 (+1)</td>
-          <td>03:20–03:45 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>Short Break</td>
-          <td>11:45–12:00</td>
-          <td>16:45–17:00</td>
-          <td>17:45–18:00</td>
-          <td>18:45–19:00</td>
-          <td>01:45–02:00 (+1)</td>
-          <td>03:45–04:00 (+1)</td>
-        </tr>
-
-        <tr>
-          <td><strong>Keynote 2: OpenCitations: recent developments and future directions</strong></td>
-          <td>12:00–13:00</td>
-          <td>17:00–18:00</td>
-          <td>18:00–19:00</td>
-          <td>19:00–20:00</td>
-          <td>02:00–03:00 (+1)</td>
-          <td>04:00–05:00 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>Towards effective extraction of references from scientific literature with Large Language Model</td>
-          <td>13:00–13:25</td>
-          <td>18:00–18:25</td>
-          <td>19:00–19:25</td>
-          <td>20:00–20:25</td>
-          <td>03:00–03:25 (+1)</td>
-          <td>05:00–05:25 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>Perspective-Aware Dataset Similarity Estimation Using Metadata Embeddings</td>
-          <td>13:25–13:50</td>
-          <td>18:25–18:50</td>
-          <td>19:25–19:50</td>
-          <td>20:25–20:50</td>
-          <td>03:25–03:50 (+1)</td>
-          <td>05:25–05:50 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>Short Break</td>
-          <td>13:50–14:00</td>
-          <td>18:50–19:00</td>
-          <td>19:50–20:00</td>
-          <td>20:50–21:00</td>
-          <td>03:50–04:00 (+1)</td>
-          <td>05:50–06:00 (+1)</td>
-        </tr>
-
-        <tr>
-          <td>Challenges for Metadata Extraction:<br>Repository-level Overview</td>
-          <td>14:00–14:30</td>
-          <td>19:00–19:30</td>
-          <td>20:00–20:30</td>
-          <td>21:00–21:30</td>
-          <td>04:00–04:30 (+1)</td>
-          <td>06:00–06:30 (+1)</td>
-        </tr>
-
-        <tr>
-          <td><strong>Panel / Discussion</strong></td>
-          <td>14:30–15:00</td>
-          <td>19:30–20:00</td>
-          <td>20:30–21:00</td>
-          <td>21:30–22:00</td>
-          <td>04:30–05:00 (+1)</td>
-          <td>06:30–07:00 (+1)</td>
-        </tr>
-
-        <tr>
-          <td><strong>Closing Remarks</strong></td>
-          <td>15:00–15:10</td>
-          <td>20:00–20:05</td>
-          <td>21:00–21:05</td>
-          <td>22:00–22:05</td>
-          <td>05:00–05:05 (+1)</td>
-          <td>07:00–07:05 (+1)</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 </section>
 
+<section id="organizers">
 
-<h3>Keynote(s)</h3>
+## Organizers
 
-<div class="card">
-  <p>
-    <strong>Prof. Dr. Silvio Peroni</strong><br>
-    Director, OpenCitations, University of Bologna, Italy<br>
-    <em>Keynote title: “OpenCitations: recent developments and future directions”</em>
-  </p>
+- **Dr. Muhammad Asif Suryani**, Knowledge Technologies for the Social Sciences, GESIS – Leibniz Institute for the Social Sciences, Cologne, Germany
+- **Dr. Brigitte Mathiak**, Knowledge Technologies for the Social Sciences, GESIS – Leibniz Institute for the Social Sciences, Cologne, Germany
+- **Dr. Florian Reitz**, Schloss Dagstuhl – Leibniz Center for Informatics, Wadern, Germany
+- **Dr. Florian Jäckel**, Schloss Dagstuhl – Leibniz Center for Informatics, Wadern, Germany
+- **Prof. Dr. Ansgar Scherp**, Data Science and Big Data Analytics, Ulm University, Ulm, Germany
+
+### Program Committee
+
+The SESAME 2026 program committee will be announced soon.
+
+</section>
+
+<section id="previous-editions">
+
+## Previous Editions
+
+- [SESAME 2025 — 1st Workshop](previous-editions/2025/index.md)
+
+</section>
+
+## Registration
+
+Registration information will be published after the host conference opens registration.
+
+## Venue and Participation
+
+Venue, travel, online-participation, and accessibility information will be added after confirmation.
+
+## Code of Conduct
+
+SESAME 2026 will follow the code of conduct of its host conference. The official link will be added when available.
+
+<section id="contact">
+
+## Contact
+
+For questions, email [asif.suryani@gesis.org](mailto:asif.suryani@gesis.org) or open an issue in the [SESAME GitHub repository](https://github.com/sesame-workshop/SESAME).
+
+</section>
+
+---
+
+<div align="center">
+
+© 2026 SESAME Organizers ·
+[Back to top ↑](#top)
+
 </div>
-
-<div class="card">
-  <p>
-    <strong>Dr. Amir Aryani</strong><br>
-    Associate Professor, Head of Augmented Intelligence Group,<br>
-    Swinburne University of Technology, Australia<br>
-    <em>Keynote title: “Leveraging Research Link Data and PIDs for Strategic Partnerships and Unlocking Collaboration”</em>
-  </p>
-</div>
-  
-<section id="organizers" class="container">
-  <h3>Organizers</h3>
-  
-    <p> Dr. Muhammad Asif Suryani, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany </p>
-    <p> Dr. Brigitte Mathiak, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany </p>
-    <p> Dr. Florian Reitz, Schloss Dagstuhl Leibniz-Zentrum für Informatik Wadern, Germany </p>
-    <p> Dr. Florian Jäckel, Schloss Dagstuhl Leibniz-Zentrum für Informatik, Wadern, Germany </p>
-    <p> Prof. Dr. Ansgar Scherp, Data Science and Big Data Analytics, Ulm University (UULM) Ulm, Germany </p>
-
-  <h3>Program Committee</h3>
-  <p> Dr. Marcel R. Ackermann, dblp computer science bibliography, University of Trier, Germany</p>
-  <p> Prof. Dr.-Ing. Ralf Schenkel, University of Trier, Germany</p>
-  <p> Dr. Kanishka Silva, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany</p>
-  <p> Dr. Affan Yasin, School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University, China</p>
- 
-
- 
-  
-  
-  
-</section>
-
-<section class="container band band--alt">
-  <h2>Registration</h2>
-  <p>Use the JCDL 2025 registration system: https://2025.jcdl.org/registration</p>
-
-  <h2>Venue &amp; Travel</h2>
-  <p>Co-located with JCDL 2025.</p>
-
-  <h2>Code of Conduct</h2>
-  <p>We follow the conference Code of Conduct.</p>
-</section>
-
-<section id="contact" class="container">
-  <h2>Contact</h2>
-  <p>Questions? Email <a href="mailto:asif.suryani@gesis.org">asif.suryani@gesis.org</a> or open an issue in this repository.</p>
-</section>
-
-<hr>
-<p align="center" style="font-size:0.95rem;">
-  © 2025 SESAME Organizers • 
-  <a href="mailto:asif.suryani@gesis.org">contact</a> • 
-  <a href="https://github.com/sesame-workshop/SESAME">GitHub Repo</a><br>
-  Site setup and layout assistance by <em>ChatGPT (GPT-5 Thinking)</em>.
-</p>
-
-<p align="center"><a href="#top">Back to top ↑</a></p>
