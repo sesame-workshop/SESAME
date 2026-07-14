@@ -253,21 +253,19 @@
   <h2>Registration</h2>
 
   <p>
-    Registration information will be published after registration for the host conference has opened.
+    Registration information will be published later.
   </p>
 
   <h2>Venue and Participation</h2>
 
   <p>
-    The workshop venue, participation format, travel information, and online-participation details will be
-    announced after confirmation by the host conference.
+    The workshop mode, participation format and further details will be shared later.
   </p>
 
   <h2>Code of Conduct</h2>
 
   <p>
-    SESAME 2026 will follow the code of conduct of its host conference. The official code-of-conduct link
-    will be added when available.
+    SESAME 2026 will follow the code of conduct as per JCDL guidelines.
   </p>
 </section>
 
@@ -297,10 +295,7 @@
 <hr>
 
 <p align="center" style="font-size:0.95rem;">
-  © 2026 SESAME Organizers •
-  <a href="previous-editions/2025/">Previous Edition</a> •
-  <a href="mailto:asif.suryani@gesis.org">Contact</a> •
-  <a href="https://github.com/sesame-workshop/SESAME">GitHub Repository</a> 
+  © 2026 SESAME Organizers
 </p>
 
 <p align="center">
