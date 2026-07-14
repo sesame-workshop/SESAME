@@ -170,7 +170,7 @@
   </p>
 
   <ul class="dates">
-    <li><strong>Paper submission:</strong> 15.08.2026</li>
+    <li><strong>Paper submission:</strong> 15.Aug.2026</li>
     <li><strong>Author notification:</strong> To be announced</li>
     <li><strong>Camera-ready submission:</strong> To be announced</li>
     <li><strong>Workshop date:</strong> To be announced</li>
