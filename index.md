@@ -296,6 +296,7 @@
 
 <p align="center" style="font-size:0.95rem;">
   © 2026 SESAME Organizers
+  Site setup and layout assistance by <em>ChatGPT</em>.
 </p>
 
 <p align="center">
