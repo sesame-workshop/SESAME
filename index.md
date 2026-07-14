@@ -47,7 +47,7 @@
 
 <section id="topics" class="container">
   <h2>Topics of Interest</h2>
-
+```
   <p>Topics include, but are not limited to:</p>
 
   <ul>
