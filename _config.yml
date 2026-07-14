@@ -1,5 +1,5 @@
 title: 2nd Workshop on Smarter Extraction of ScholArly MEtadata using Knowledge Graphs and Language Models at JCDL 2026
-description: Official web portal for the SESAME workshop co-located with JCDL 2026.
+description: SESAME workshop co-located with JCDL 2026.
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-seo-tag
