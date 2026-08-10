@@ -294,9 +294,18 @@
 
 <hr>
 
+<p align="center">
+  <strong>Website Visitors:</strong>
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=sesame-workshop.SESAME"
+    alt="SESAME website visitor count">
+</p>
+
 <p align="center" style="font-size:0.95rem;">
-  © 2026 SESAME Organizers <br>
-  Site setup and layout assistance by <em>ChatGPT</em>
+  © 2026 SESAME Organizers •
+  <a href="previous-editions/2025/">Previous Edition</a> •
+  <a href="mailto:asif.suryani@gesis.org">Contact</a> •
+  <a href="https://github.com/sesame-workshop/SESAME">GitHub Repository</a>
 </p>
 
 <p align="center">
