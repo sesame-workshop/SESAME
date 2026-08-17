@@ -128,12 +128,26 @@
     All deadlines will use <strong>Anywhere on Earth (AoE)</strong> time.
   </p>
 
-  <ul class="dates">
-    <li><strong>Paper submission:</strong> 15.08.2026</li>
-    <li><strong>Author notification:</strong> 01.09.2026</li>
-    <li><strong>Camera-ready submission:</strong> 10.09.2026</li>
-    <li><strong>Workshop date:</strong> To be announced</li>
-  </ul>
+ <ul class="dates">
+  <li>
+    <strong>Paper submission:</strong>
+    <span style="color:red;"><s>15.08.2026</s></span>
+    → <strong>07.09.2026 (Extended)</strong>
+  </li>
+  <li>
+    <strong>Author notification:</strong>
+    <span style="color:red;"><s>01.09.2026</s></span>
+    → <strong>21.09.2026 (Extended)</strong>
+  </li>
+  <li>
+    <strong>Camera-ready submission:</strong>
+    <span style="color:red;"><s>10.09.2026</s></span>
+    → <strong>05.10.2026 (Extended)</strong>
+  </li>
+  <li>
+    <strong>Workshop date:</strong> 16.10.2026
+  </li>
+</ul>
 </section>
 
 <section id="submission" class="container">
