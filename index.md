@@ -206,22 +206,21 @@
     <h3>Keynote Speaker 1</h3>
 
     <p>
-      <strong>Prof./Dr. [Speaker Name]</strong><br>
-      [Position / Department]<br>
-      [University / Institution], [Country]
+      <strong>Dr Angelo Salatino </strong><br>
+      Research Fellow at the Knowledge Media Institute<br>
+      The Open University, United Kingdom
     </p>
 
     <p>
       <strong>Keynote Title:</strong><br>
-      [Title of Keynote Talk]
+      Sprinkling Semantics and AI into Metascience
     </p>
 
     <p>
-      <strong>Bio:</strong><br>
-      [Short biography of the keynote speaker.]
+      <strong>Abstract:</strong><br>
+      This talk explores the role of Artificial Intelligence and Semantic Web technologies in the field of metascience, focusing on how these computational methods can be used to better understand and optimise the research ecosystem. While traditional methods of categorising and analysing scientific progress often rely on manual curation that is difficult to scale, we introduce innovative AI-driven frameworks designed to automatically generate fine-grained representations of research knowledge. By leveraging large-scale ontologies and machine learning models, our work facilitates the tracking of research trends, the identification of knowledge flows between academia and industry, and the acceleration of progress through automated literature synthesis. Ultimately, this research aims to provide evidence-based insights that can inform funding strategies and national research policies, ensuring that transformative ideas are identified and supported more effectively.
     </p>
   </div>
-
   <hr>
 
   <div class="keynote-speaker">
