@@ -386,13 +386,13 @@
   <h2>Registration</h2>
 
   <p>
-    Registration information will be published later.
+    Use the JCDL 2026 registration system: https://2026.jcdl.org/registration
   </p>
 
   <h2>Venue and Participation</h2>
 
   <p>
-    The workshop mode, participation format and further details will be shared later.
+    The workshop is fully online using zoom and further details will be shared separately via email.
   </p>
 
   <h2>Code of Conduct</h2>
