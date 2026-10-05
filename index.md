@@ -376,10 +376,15 @@
   </p>
 
   <h3>Program Committee</h3>
-
   <p>
-    Dr. Marcel R. Ackermann, dblp computer science bibliography, University of Trier, Germany
-    Dr. Kanishka Silva, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany  
+    <strong>Dr. Marcel R. Ackermann</strong><br>
+    DBLP computer science bibliography,<br>
+    University of Trier, Germany, Germany  
+  </p>
+  <p>
+    <strong>Dr. Kanishka Silva</strong><br>
+    Knowledge Technologies for the Social Sciences (KTS),<br>
+    GESIS – Leibniz Institute for the Social Sciences, Cologne, Germany
   </p>
 </section>
 
