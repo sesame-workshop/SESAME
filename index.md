@@ -203,8 +203,6 @@
   <h2>Keynote Speakers</h2>
 
   <div class="keynote-speaker">
-    <h3>Keynote Speaker 1</h3>
-
     <p>
       <strong>Dr Angelo Salatino </strong><br>
       Research Fellow at the Knowledge Media Institute<br>
@@ -224,22 +222,21 @@
   <hr>
 
   <div class="keynote-speaker">
-    <h3>Keynote Speaker 2</h3>
 
     <p>
-      <strong>Prof./Dr. [Speaker Name]</strong><br>
-      [Position / Department]<br>
-      [University / Institution], [Country]
+      <strong>Prof. Dr. Ingo Frommholz</strong><br>
+      Professor at School of Applied Data Science<br>
+      Modul University Vienna, Austria
     </p>
 
     <p>
       <strong>Keynote Title:</strong><br>
-      [Title of Keynote Talk]
+      "Fake Science" and Information Overload in Academia
     </p>
 
     <p>
-      <strong>Bio:</strong><br>
-      [Short biography of the keynote speaker.]
+      <strong>Abstract:</strong><br>
+Scientific communication is experiencing unprecedented growth, with publication volumes increasing at a scale that overwhelms researchers’ capacity to process and evaluate information. This information overload is not only a byproduct of legitimate scholarly activity but is increasingly driven by low-quality and even fraudulent content. This poses both critical challenges and unique opportunities for the Information Retrieval and Digital Libraries communities. On the one hand, information overload and quality degradation pose a challenge that needs to be addressed more directly by retrieval models that, traditionally, are mainly considering topical relevance. On the other hand, advances in AI, NLP, and bibliometric-enhanced retrieval offer promising directions for filtering, ranking, and contextualising scholarly information. In this talk, we will examine the evolving problem of fake science and its role in driving information overload. We will outline recent developments in scholarly information access, highlight open research problems — from detecting low-quality and fraudulent content to designing veracity-aware retrieval and recommendation models — and discuss how IR research can contribute to ensuring that high-quality knowledge remains discoverable, trustworthy, and actionable in an era of overwhelming information abundance.
     </p>
   </div>
 
