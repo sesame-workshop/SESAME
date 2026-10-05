@@ -9,6 +9,7 @@
   <a href="#call-for-papers">CFP</a> •
   <a href="#important-dates-aoe">Dates</a> •
   <a href="#submission">Submission</a> •
+  <a href="#keynote-speakers">Keynotes</a> •
   <a href="#program">Program</a> •
   <a href="#organizers">Organizers</a> •
   <a href="previous-editions/2025/">Previous Editions</a> •
