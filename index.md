@@ -375,7 +375,7 @@
     Ulm University, Ulm, Germany
   </p>
 
-  <h3>Program Committee</h3>
+  <h2>Program Committee</h2>
   <p>
     <strong>Dr. Marcel R. Ackermann</strong><br>
     DBLP computer science bibliography,<br>
