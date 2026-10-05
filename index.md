@@ -202,18 +202,137 @@
   <h2>Program</h2>
 
   <p>
-    The SESAME 2026 workshop program will be published after the paper-review process.
+    The SESAME 2026 workshop will take place on <strong>16 October 2026</strong>.
+    The workshop program includes invited keynote talks, research paper presentations,
+    an invited talk, and an interactive discussion session.
   </p>
 
-  <p>
-    The workshop program will comprise of:
-  </p>
+  <div style="overflow-x:auto;">
+    <table style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="text-align:left; padding:8px;">Description</th>
+          <th style="padding:8px;">US Central (Texas)</th>
+          <th style="padding:8px;">Germany / Austria / Italy</th>
+          <th style="padding:8px;">UK</th>
+          <th style="padding:8px;">China</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding:8px;"><strong>Opening &amp; Welcome</strong></td>
+          <td style="padding:8px;">09:00–09:15</td>
+          <td style="padding:8px;">16:00–16:15</td>
+          <td style="padding:8px;">15:00–15:15</td>
+          <td style="padding:8px;">22:00–22:15</td>
+        </tr>
 
-  <ul>
-    <li>Invited Keynotes Talks;</li>
-    <li>Research Paper Presentations;</li>
-    <li>Interactive Discussion Sessions</li>
-  </ul>
+        <tr>
+          <td style="padding:8px;"><strong>Keynote 1</strong></td>
+          <td style="padding:8px;">09:15–10:00</td>
+          <td style="padding:8px;">16:15–17:00</td>
+          <td style="padding:8px;">15:15–16:00</td>
+          <td style="padding:8px;">22:15–23:00</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;">Submission ID-5</td>
+          <td style="padding:8px;">10:00–10:30</td>
+          <td style="padding:8px;">17:00–17:30</td>
+          <td style="padding:8px;">16:00–16:30</td>
+          <td style="padding:8px;">23:00–23:30</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;">Submission ID-1</td>
+          <td style="padding:8px;">10:30–11:00</td>
+          <td style="padding:8px;">17:30–18:00</td>
+          <td style="padding:8px;">16:30–17:00</td>
+          <td style="padding:8px;">23:30–00:00</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;"><strong>Short Break</strong></td>
+          <td style="padding:8px;">11:00–11:15</td>
+          <td style="padding:8px;">18:00–18:15</td>
+          <td style="padding:8px;">17:00–17:15</td>
+          <td style="padding:8px;">00:00–00:15 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;"><strong>Keynote 2</strong></td>
+          <td style="padding:8px;">11:15–12:00</td>
+          <td style="padding:8px;">18:15–19:00</td>
+          <td style="padding:8px;">17:15–18:00</td>
+          <td style="padding:8px;">00:15–01:00 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;">Submission ID-6</td>
+          <td style="padding:8px;">12:00–12:30</td>
+          <td style="padding:8px;">19:00–19:30</td>
+          <td style="padding:8px;">18:00–18:30</td>
+          <td style="padding:8px;">01:00–01:30 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;">Submission ID-7</td>
+          <td style="padding:8px;">12:30–13:00</td>
+          <td style="padding:8px;">19:30–20:00</td>
+          <td style="padding:8px;">18:30–19:00</td>
+          <td style="padding:8px;">01:30–02:00 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;"><strong>Short Break</strong></td>
+          <td style="padding:8px;">13:00–13:30</td>
+          <td style="padding:8px;">20:00–20:30</td>
+          <td style="padding:8px;">19:00–19:30</td>
+          <td style="padding:8px;">02:00–02:30 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;">Submission ID-8</td>
+          <td style="padding:8px;">13:30–14:00</td>
+          <td style="padding:8px;">20:30–21:00</td>
+          <td style="padding:8px;">19:30–20:00</td>
+          <td style="padding:8px;">02:30–03:00 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;"><strong>Challenges for Metadata Extraction in Agentic Era</strong></td>
+          <td style="padding:8px;">14:00–15:00</td>
+          <td style="padding:8px;">21:00–22:00</td>
+          <td style="padding:8px;">20:00–21:00</td>
+          <td style="padding:8px;">03:00–04:00 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;"><strong>Discussion</strong></td>
+          <td style="padding:8px;">15:00–15:30</td>
+          <td style="padding:8px;">22:00–22:30</td>
+          <td style="padding:8px;">21:00–21:30</td>
+          <td style="padding:8px;">04:00–04:30 (+1 day)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:8px;"><strong>Closing Remarks</strong></td>
+          <td style="padding:8px;">15:30–15:40</td>
+          <td style="padding:8px;">22:30–22:40</td>
+          <td style="padding:8px;">21:30–21:40</td>
+          <td style="padding:8px;">04:30–04:40 (+1 day)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p style="margin-top:1rem; font-size:0.95rem;">
+    <strong>Time Zone Disclaimer:</strong>
+    The times listed above are provided for reference. Due to differences in daylight
+    saving time and regional time-zone changes, presenters and participants are kindly
+    requested to verify the corresponding time in their local time zone before the workshop.
+    <strong>US Central (Texas) time should be considered the reference time for the workshop schedule.</strong>
+  </p>
 
 </section>
 
