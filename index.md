@@ -398,7 +398,7 @@
   <h2>Venue and Participation</h2>
 
   <p>
-    The workshop is fully online using zoom and further details will be shared separately via email.
+    The workshop is fully online via zoom and further details will be shared separately via email.
   </p>
 
   <h2>Code of Conduct</h2>
