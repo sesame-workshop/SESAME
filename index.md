@@ -378,7 +378,8 @@
   <h3>Program Committee</h3>
 
   <p>
-    The SESAME 2026 Program Committee will be announced soon.
+    Dr. Marcel R. Ackermann, dblp computer science bibliography, University of Trier, Germany
+    Dr. Kanishka Silva, Knowledge Technologies for the Social Sciences (KTS), Leibniz-Institut fur Sozialwissenschaften (GESIS), Köln, Germany  
   </p>
 </section>
 
