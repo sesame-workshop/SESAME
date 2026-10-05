@@ -142,7 +142,7 @@
   <li>
     <strong>Camera-ready submission:</strong>
     <span style="color:red;"><s>10.09.2026</s></span>
-    → <strong>05.10.2026 (Extended)</strong>
+    → <strong>07.10.2026 (Extended)</strong>
   </li>
   <li>
     <strong>Workshop date:</strong> 16.10.2026
