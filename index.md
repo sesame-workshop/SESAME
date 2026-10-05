@@ -198,6 +198,53 @@
   </p>
 
 </section>
+<section id="keynote-speakers" class="container">
+  <h2>Keynote Speakers</h2>
+
+  <div class="keynote-speaker">
+    <h3>Keynote Speaker 1</h3>
+
+    <p>
+      <strong>Prof./Dr. [Speaker Name]</strong><br>
+      [Position / Department]<br>
+      [University / Institution], [Country]
+    </p>
+
+    <p>
+      <strong>Keynote Title:</strong><br>
+      [Title of Keynote Talk]
+    </p>
+
+    <p>
+      <strong>Bio:</strong><br>
+      [Short biography of the keynote speaker.]
+    </p>
+  </div>
+
+  <hr>
+
+  <div class="keynote-speaker">
+    <h3>Keynote Speaker 2</h3>
+
+    <p>
+      <strong>Prof./Dr. [Speaker Name]</strong><br>
+      [Position / Department]<br>
+      [University / Institution], [Country]
+    </p>
+
+    <p>
+      <strong>Keynote Title:</strong><br>
+      [Title of Keynote Talk]
+    </p>
+
+    <p>
+      <strong>Bio:</strong><br>
+      [Short biography of the keynote speaker.]
+    </p>
+  </div>
+
+</section>
+
 <section id="program" class="container band band--alt">
   <h2>Program</h2>
 
