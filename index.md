@@ -271,13 +271,16 @@ Scientific communication is experiencing unprecedented growth, with publication 
           <td style="padding:8px;">22:00–22:15</td>
         </tr>
 
-        <tr>
-          <td style="padding:8px;"><strong>Keynote 1 Sprinkling Semantics and AI into Metascience</strong></td>
-          <td style="padding:8px;">09:15–10:00</td>
-          <td style="padding:8px;">16:15–17:00</td>
-          <td style="padding:8px;">15:15–16:00</td>
-          <td style="padding:8px;">22:15–23:00</td>
-        </tr>
+  <tr>
+  <td style="padding:8px;">
+    <strong>Keynote 1</strong><br>
+    Sprinkling Semantics and AI into Metascience
+  </td>
+  <td style="padding:8px;">09:15–10:00</td>
+  <td style="padding:8px;">16:15–17:00</td>
+  <td style="padding:8px;">15:15–16:00</td>
+  <td style="padding:8px;">22:15–23:00</td>
+</tr>
 
         <tr>
           <td style="padding:8px;">Submission ID-5</td>
