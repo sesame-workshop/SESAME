@@ -323,23 +323,27 @@ Scientific communication is experiencing unprecedented growth, with publication 
   <td style="padding:8px;">00:15–01:00 (+1 day)</td>
 </tr>
 
-        <tr>
-          <td style="padding:8px;">Submission ID-6
-          Layered Assurance for Knowledge-Graph-Mediated Newspaper Metadata: Traceable Checks, Identity Audit, and Evaluator Dependence
-          </td>
-          <td style="padding:8px;">12:00–12:30</td>
-          <td style="padding:8px;">19:00–19:30</td>
-          <td style="padding:8px;">18:00–18:30</td>
-          <td style="padding:8px;">01:00–01:30 (+1 day)</td>
-        </tr>
+ <tr>
+  <td style="padding:8px;">
+    <strong>Submission ID-6</strong><br>
+    Layered Assurance for Knowledge-Graph-Mediated Newspaper Metadata: Traceable Checks, Identity Audit, and Evaluator Dependence
+  </td>
+  <td style="padding:8px;">12:00–12:30</td>
+  <td style="padding:8px;">19:00–19:30</td>
+  <td style="padding:8px;">18:00–18:30</td>
+  <td style="padding:8px;">01:00–01:30 (+1 day)</td>
+</tr>
 
-        <tr>
-          <td style="padding:8px;">Submission ID-7</td>
-          <td style="padding:8px;">12:30–13:00</td>
-          <td style="padding:8px;">19:30–20:00</td>
-          <td style="padding:8px;">18:30–19:00</td>
-          <td style="padding:8px;">01:30–02:00 (+1 day)</td>
-        </tr>
+     <tr>
+  <td style="padding:8px;">
+    <strong>Submission ID-7</strong><br>
+    Reconstructing Systematic-Review Data Tables with Large Language Model Extraction: A Commensurability Study
+  </td>
+  <td style="padding:8px;">12:30–13:00</td>
+  <td style="padding:8px;">19:30–20:00</td>
+  <td style="padding:8px;">18:30–19:00</td>
+  <td style="padding:8px;">01:30–02:00 (+1 day)</td>
+</tr>
 
         <tr>
           <td style="padding:8px;"><strong>Short Break</strong></td>
@@ -349,13 +353,16 @@ Scientific communication is experiencing unprecedented growth, with publication 
           <td style="padding:8px;">02:00–02:30 (+1 day)</td>
         </tr>
 
-        <tr>
-          <td style="padding:8px;">Submission ID-8</td>
-          <td style="padding:8px;">13:30–14:00</td>
-          <td style="padding:8px;">20:30–21:00</td>
-          <td style="padding:8px;">19:30–20:00</td>
-          <td style="padding:8px;">02:30–03:00 (+1 day)</td>
-        </tr>
+    <tr>
+  <td style="padding:8px;">
+    <strong>Submission ID-8</strong><br>
+    ETD-ASC: Abstract Sentence Classification for Electronic Theses and Dissertations
+  </td>
+  <td style="padding:8px;">13:30–14:00</td>
+  <td style="padding:8px;">20:30–21:00</td>
+  <td style="padding:8px;">19:30–20:00</td>
+  <td style="padding:8px;">02:30–03:00 (+1 day)</td>
+</tr>
 
         <tr>
           <td style="padding:8px;"><strong>Challenges for Metadata Extraction in Agentic Era</strong></td>
