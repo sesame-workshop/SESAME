@@ -272,7 +272,7 @@ Scientific communication is experiencing unprecedented growth, with publication 
         </tr>
 
         <tr>
-          <td style="padding:8px;"><strong>Keynote 1</strong></td>
+          <td style="padding:8px;"><strong>Keynote 1 Sprinkling Semantics and AI into Metascience</strong></td>
           <td style="padding:8px;">09:15–10:00</td>
           <td style="padding:8px;">16:15–17:00</td>
           <td style="padding:8px;">15:15–16:00</td>
