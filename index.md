@@ -324,7 +324,9 @@ Scientific communication is experiencing unprecedented growth, with publication 
 </tr>
 
         <tr>
-          <td style="padding:8px;">Submission ID-6</td>
+          <td style="padding:8px;">Submission ID-6
+          Layered Assurance for Knowledge-Graph-Mediated Newspaper Metadata: Traceable Checks, Identity Audit, and Evaluator Dependence
+          </td>
           <td style="padding:8px;">12:00–12:30</td>
           <td style="padding:8px;">19:00–19:30</td>
           <td style="padding:8px;">18:00–18:30</td>
