@@ -306,13 +306,16 @@ Scientific communication is experiencing unprecedented growth, with publication 
           <td style="padding:8px;">00:00–00:15 (+1 day)</td>
         </tr>
 
-        <tr>
-          <td style="padding:8px;"><strong>Keynote 2</strong></td>
-          <td style="padding:8px;">11:15–12:00</td>
-          <td style="padding:8px;">18:15–19:00</td>
-          <td style="padding:8px;">17:15–18:00</td>
-          <td style="padding:8px;">00:15–01:00 (+1 day)</td>
-        </tr>
+  <tr>
+  <td style="padding:8px;">
+    <strong>Keynote 2</strong><br>
+    "Fake Science" and Information Overload in Academia
+  </td>
+  <td style="padding:8px;">11:15–12:00</td>
+  <td style="padding:8px;">18:15–19:00</td>
+  <td style="padding:8px;">17:15–18:00</td>
+  <td style="padding:8px;">00:15–01:00 (+1 day)</td>
+</tr>
 
         <tr>
           <td style="padding:8px;">Submission ID-6</td>
