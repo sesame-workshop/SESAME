@@ -282,21 +282,27 @@ Scientific communication is experiencing unprecedented growth, with publication 
   <td style="padding:8px;">22:15–23:00</td>
 </tr>
 
-        <tr>
-          <td style="padding:8px;">Submission ID-5</td>
-          <td style="padding:8px;">10:00–10:30</td>
-          <td style="padding:8px;">17:00–17:30</td>
-          <td style="padding:8px;">16:00–16:30</td>
-          <td style="padding:8px;">23:00–23:30</td>
-        </tr>
+     <tr>
+  <td style="padding:8px;">
+    <strong>Submission ID-5</strong><br>
+    Multi-Agent Research Interest Discovery for Scientific Paper Recommendation
+  </td>
+  <td style="padding:8px;">10:00–10:30</td>
+  <td style="padding:8px;">17:00–17:30</td>
+  <td style="padding:8px;">16:00–16:30</td>
+  <td style="padding:8px;">23:00–23:30</td>
+</tr>
 
-        <tr>
-          <td style="padding:8px;">Submission ID-1</td>
-          <td style="padding:8px;">10:30–11:00</td>
-          <td style="padding:8px;">17:30–18:00</td>
-          <td style="padding:8px;">16:30–17:00</td>
-          <td style="padding:8px;">23:30–00:00</td>
-        </tr>
+     <tr>
+  <td style="padding:8px;">
+    <strong>Submission ID-1</strong><br>
+    The Impact of Keyword-Based Weak Supervision on Technology-Assisted Review Performance
+  </td>
+  <td style="padding:8px;">10:30–11:00</td>
+  <td style="padding:8px;">17:30–18:00</td>
+  <td style="padding:8px;">16:30–17:00</td>
+  <td style="padding:8px;">23:30–00:00</td>
+</tr>
 
         <tr>
           <td style="padding:8px;"><strong>Short Break</strong></td>
