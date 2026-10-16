@@ -208,7 +208,7 @@
 
   <div style="margin-top:15px;">
     <iframe
-      src="{{ '/assets/slides/keynote-1.pdf' | relative_url }}#toolbar=0&amp;navpanes=0"
+      src="{{ '/assets/keynotes/keynote-1.pdf' | relative_url }}#toolbar=0&amp;navpanes=0"
       width="100%"
       height="550"
       loading="lazy"
