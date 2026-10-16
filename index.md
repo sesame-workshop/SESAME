@@ -201,6 +201,22 @@
 </section>
 <section id="keynote-speakers" class="container">
   <h2>Keynote Speakers</h2>
+<details style="margin-top:20px;">
+  <summary style="cursor:pointer; font-weight:600; color:#0969da;">
+    View Keynote 1 Presentation Slides
+  </summary>
+
+  <div style="margin-top:15px;">
+    <iframe
+      src="{{ '/assets/slides/keynote-1.pdf' | relative_url }}#toolbar=0&amp;navpanes=0"
+      width="100%"
+      height="550"
+      loading="lazy"
+      style="border:1px solid #ddd; border-radius:8px;"
+      title="Keynote 1 Presentation Slides">
+    </iframe>
+  </div>
+</details>
 
   <div class="keynote-speaker">
     <p>
