@@ -245,7 +245,7 @@
 
   <div style="margin-top:15px;">
     <iframe
-      src="{{ '/assets/slides/keynote-2.pdf' | relative_url }}#toolbar=0&amp;navpanes=0"
+     src="/SESAME/keynote_slides/IOL_Academia_compressed.pdf#toolbar=0&amp;navpanes=0" 
       width="100%"
       height="550"
       loading="lazy"
