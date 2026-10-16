@@ -238,6 +238,22 @@
   <hr>
 
   <div class="keynote-speaker">
+<details style="margin-top:20px;">
+  <summary style="cursor:pointer; font-weight:600; color:#0969da;">
+    View Keynote 2 Presentation Slides
+  </summary>
+
+  <div style="margin-top:15px;">
+    <iframe
+      src="{{ '/assets/slides/keynote-2.pdf' | relative_url }}#toolbar=0&amp;navpanes=0"
+      width="100%"
+      height="550"
+      loading="lazy"
+      style="border:1px solid #ddd; border-radius:8px;"
+      title="Keynote 2 Presentation Slides">
+    </iframe>
+  </div>
+</details>
 
     <p>
       <strong>Prof. Dr. Ingo Frommholz</strong><br>
